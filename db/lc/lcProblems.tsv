@@ -1,0 +1,1404 @@
+guess-the-majority-in-a-hidden-array	Guess the Majority in a Hidden Array	2	true
+find-the-index-of-the-large-integer	Find the Index of the Large Integer	2	true
+diameter-of-n-ary-tree	Diameter of N-Ary Tree	2	true
+get-the-maximum-score	Get the Maximum Score	3	false
+minimum-swaps-to-arrange-a-binary-grid	Minimum Swaps to Arrange a Binary Grid	2	false
+find-the-winner-of-an-array-game	Find the Winner of an Array Game	2	false
+count-good-triplets	Count Good Triplets	1	false
+move-sub-tree-of-n-ary-tree	Move Sub-Tree of N-Ary Tree	3	true
+number-of-good-leaf-nodes-pairs	Number of Good Leaf Nodes Pairs	2	false
+bulb-switcher-iv	Bulb Switcher IV	2	false
+shuffle-string	Shuffle String	1	false
+find-root-of-n-ary-tree	Find Root of N-Ary Tree	2	true
+find-a-value-of-a-mysterious-function-closest-to-target	Find a Value of a Mysterious Function Closest to Target	3	false
+maximum-number-of-non-overlapping-substrings	Maximum Number of Non-Overlapping Substrings	3	false
+number-of-nodes-in-the-sub-tree-with-the-same-label	Number of Nodes in the Sub-Tree With the Same Label	2	false
+water-bottles	Water Bottles	1	false
+design-a-file-sharing-system	Design a File Sharing System	2	true
+best-position-for-a-service-centre	Best Position for a Service Centre	3	false
+string-compression-ii	String Compression II	3	false
+number-of-substrings-with-only-1s	Number of Substrings With Only 1s	2	false
+number-of-good-pairs	Number of Good Pairs	1	false
+clone-n-ary-tree	Clone N-ary Tree	2	true
+minimum-number-of-increments-on-subarrays-to-form-a-target-array	Minimum Number of Increments on Subarrays to Form a Target Array	3	false
+number-of-good-ways-to-split-a-string	Number of Good Ways to Split a String	2	false
+number-of-sub-arrays-with-odd-sum	Number of Sub-arrays With Odd Sum	2	false
+count-odd-numbers-in-an-interval-range	Count Odd Numbers in an Interval Range	1	false
+minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits	Minimum Possible Integer After at Most K Adjacent Swaps On Digits	3	false
+count-submatrices-with-all-ones	Count Submatrices With All Ones	2	false
+last-moment-before-all-ants-fall-out-of-a-plank	Last Moment Before All Ants Fall Out of a Plank	2	false
+can-make-arithmetic-progression-from-sequence	Can Make Arithmetic Progression From Sequence	1	false
+clone-binary-tree-with-random-pointer	Clone Binary Tree With Random Pointer	2	true
+max-value-of-equation	Max Value of Equation	3	false
+number-of-subsequences-that-satisfy-the-given-sum-condition	Number of Subsequences That Satisfy the Given Sum Condition	2	false
+check-if-array-pairs-are-divisible-by-k	Check If Array Pairs Are Divisible by k	2	false
+path-crossing	Path Crossing	1	false
+delete-n-nodes-after-m-nodes-of-a-linked-list	Delete N Nodes After M Nodes of a Linked List	1	true
+stone-game-iv	Stone Game IV	3	false
+minimum-difference-between-largest-and-smallest-value-in-three-moves	Minimum Difference Between Largest and Smallest Value in Three Moves	2	false
+range-sum-of-sorted-subarray-sums	Range Sum of Sorted Subarray Sums	2	false
+find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree	Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree	3	false
+avoid-flood-in-the-city	Avoid Flood in The City	2	false
+making-file-names-unique	Making File Names Unique	2	false
+xor-operation-in-an-array	XOR Operation in an Array	1	false
+find-all-the-lonely-nodes	Find All The Lonely Nodes	1	true
+minimum-number-of-days-to-make-m-bouquets	Minimum Number of Days to Make m Bouquets	2	false
+least-number-of-unique-integers-after-k-removals	Least Number of Unique Integers after K Removals	2	false
+running-sum-of-1d-array	Running Sum of 1d Array	1	false
+parallel-courses-ii	Parallel Courses II	3	false
+longest-subarray-of-1s-after-deleting-one-element	Longest Subarray of 1's After Deleting One Element	2	false
+the-kth-factor-of-n	The kth Factor of n	2	false
+average-salary-excluding-the-minimum-and-maximum-salary	Average Salary Excluding the Minimum and Maximum Salary	1	false
+paint-house-iii	Paint House III	3	false
+design-browser-history	Design Browser History	2	false
+the-k-strongest-values-in-an-array	The k Strongest Values in an Array	2	false
+shuffle-the-array	Shuffle the Array	1	false
+probability-of-a-two-boxes-having-the-same-number-of-distinct-balls	Probability of a Two Boxes Having The Same Number of Distinct Balls	3	false
+reorder-routes-to-make-all-paths-lead-to-the-city-zero	Reorder Routes to Make All Paths Lead to the City Zero	2	false
+maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts	Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts	2	false
+maximum-product-of-two-elements-in-an-array	Maximum Product of Two Elements in an Array	1	false
+find-two-non-overlapping-sub-arrays-each-with-target-sum	Find Two Non-overlapping Sub-arrays Each With Target Sum	2	false
+subrectangle-queries	Subrectangle Queries	2	false
+allocate-mailboxes	Allocate Mailboxes	3	false
+final-prices-with-a-special-discount-in-a-shop	Final Prices With a Special Discount in a Shop	1	false
+max-dot-product-of-two-subsequences	Max Dot Product of Two Subsequences	3	false
+pseudo-palindromic-paths-in-a-binary-tree	Pseudo-Palindromic Paths in a Binary Tree	2	false
+maximum-number-of-vowels-in-a-substring-of-given-length	Maximum Number of Vowels in a Substring of Given Length	2	false
+check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence	Check If a Word Occurs As a Prefix of Any Word in a Sentence	1	false
+maximum-number-of-darts-inside-of-a-circular-dartboard	Maximum Number of Darts Inside of a Circular Dartboard	3	false
+people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list	People Whose List of Favorite Companies Is Not a Subset of Another List	2	false
+rearrange-words-in-a-sentence	Rearrange Words in a Sentence	2	false
+number-of-students-doing-homework-at-a-given-time	Number of Students Doing Homework at a Given Time	1	false
+cherry-pickup-ii	Cherry Pickup II	3	false
+course-schedule-iv	Course Schedule IV	2	false
+check-if-a-string-contains-all-binary-codes-of-size-k	Check If a String Contains All Binary Codes of Size K	2	false
+make-two-arrays-equal-by-reversing-sub-arrays	Make Two Arrays Equal by Reversing Sub-arrays	1	false
+number-of-ways-of-cutting-a-pizza	Number of Ways of Cutting a Pizza	3	false
+minimum-time-to-collect-all-apples-in-a-tree	Minimum Time to Collect All Apples in a Tree	2	false
+count-triplets-that-can-form-two-arrays-of-equal-xor	Count Triplets That Can Form Two Arrays of Equal XOR	2	false
+build-an-array-with-stack-operations	Build an Array With Stack Operations	1	false
+find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows	Find the Kth Smallest Sum of a Matrix With Sorted Rows	3	false
+longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit	Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit	2	false
+check-if-all-1s-are-at-least-length-k-places-away	Check If All 1's Are at Least Length K Places Away	2	false
+destination-city	Destination City	1	false
+form-largest-integer-with-digits-that-add-up-to-target	Form Largest Integer With Digits That Add up to Target	3	false
+count-good-nodes-in-binary-tree	Count Good Nodes in Binary Tree	2	false
+simplified-fractions	Simplified Fractions	2	false
+consecutive-characters	Consecutive Characters	1	false
+diagonal-traverse-ii	Diagonal Traverse II	2	false
+maximum-points-you-can-obtain-from-cards	Maximum Points You Can Obtain from Cards	2	false
+maximum-score-after-splitting-a-string	Maximum Score After Splitting a String	1	false
+build-array-where-you-can-find-the-maximum-exactly-k-comparisons	Build Array Where You Can Find The Maximum Exactly K Comparisons	3	false
+minimum-number-of-frogs-croaking	Minimum Number of Frogs Croaking	2	false
+display-table-of-food-orders-in-a-restaurant	Display Table of Food Orders in a Restaurant	2	false
+reformat-the-string	Reformat The String	1	false
+number-of-ways-to-wear-different-hats-to-each-other	Number of Ways to Wear Different Hats to Each Other	3	false
+check-if-a-string-can-break-another-string	Check If a String Can Break Another String	2	false
+max-difference-you-can-get-from-changing-an-integer	Max Difference You Can Get From Changing an Integer	2	false
+kids-with-the-greatest-number-of-candies	Kids With the Greatest Number of Candies	1	false
+number-of-ways-to-paint-n-3-grid	Number of Ways to Paint N × 3 Grid	3	false
+html-entity-parser	HTML Entity Parser	2	false
+queries-on-a-permutation-with-key	Queries on a Permutation With Key	2	false
+string-matching-in-an-array	String Matching in an Array	1	false
+stone-game-iii	Stone Game III	3	false
+number-of-steps-to-reduce-a-number-in-binary-representation-to-one	Number of Steps to Reduce a Number in Binary Representation to One	2	false
+minimum-subsequence-in-non-increasing-order	Minimum Subsequence in Non-Increasing Order	1	false
+restore-the-array	Restore The Array	3	false
+the-k-th-lexicographical-string-of-all-happy-strings-of-length-n	The k-th Lexicographical String of All Happy Strings of Length n	2	false
+find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k	Find the Minimum Number of Fibonacci Numbers Whose Sum Is K	2	false
+minimum-value-to-get-positive-step-by-step-sum	Minimum Value to Get Positive Step by Step Sum	1	false
+find-all-good-strings	Find All Good Strings	3	false
+design-underground-system	Design Underground System	2	false
+count-number-of-teams	Count Number of Teams	2	false
+find-lucky-integer-in-an-array	Find Lucky Integer in an Array	1	false
+longest-happy-prefix	Longest Happy Prefix	3	false
+check-if-there-is-a-valid-path-in-a-grid	Check if There is a Valid Path in a Grid	2	false
+create-target-array-in-the-given-order	Create Target Array in the Given Order	1	false
+reducing-dishes	Reducing Dishes	3	false
+construct-k-palindrome-strings	Construct K Palindrome Strings	2	false
+circle-and-rectangle-overlapping	Circle and Rectangle Overlapping	2	false
+count-largest-group	Count Largest Group	1	false
+maximum-performance-of-a-team	Maximum Performance of a Team	3	false
+find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree	Find a Corresponding Node of a Binary Tree in a Clone of That Tree	2	false
+design-a-stack-with-increment-operation	Design a Stack With Increment Operation	2	false
+lucky-numbers-in-a-matrix	Lucky Numbers in a Matrix	1	false
+frog-position-after-t-seconds	Frog Position After T Seconds	3	false
+time-needed-to-inform-all-employees	Time Needed to Inform All Employees	2	false
+bulb-switcher-iii	Bulb Switcher III	2	false
+generate-a-string-with-characters-that-have-odd-counts	Generate a String With Characters That Have Odd Counts	1	false
+pizza-with-3n-slices	Pizza With 3n Slices	3	false
+sort-integers-by-the-power-value	Sort Integers by The Power Value	2	false
+cinema-seat-allocation	Cinema Seat Allocation	2	false
+find-the-distance-value-between-two-arrays	Find the Distance Value Between Two Arrays	1	false
+minimum-cost-to-make-at-least-one-valid-path-in-a-grid	Minimum Cost to Make at Least One Valid Path in a Grid	3	false
+linked-list-in-binary-tree	Linked List in Binary Tree	2	false
+rank-teams-by-votes	Rank Teams by Votes	2	false
+how-many-numbers-are-smaller-than-the-current-number	How Many Numbers Are Smaller Than the Current Number	1	false
+construct-target-array-with-multiple-sums	Construct Target Array With Multiple Sums	3	false
+maximum-number-of-events-that-can-be-attended	Maximum Number of Events That Can Be Attended	2	false
+product-of-the-last-k-numbers	Product of the Last K Numbers	2	false
+count-negative-numbers-in-a-sorted-matrix	Count Negative Numbers in a Sorted Matrix	1	false
+maximum-sum-bst-in-binary-tree	Maximum Sum BST in Binary Tree	3	false
+longest-zigzag-path-in-a-binary-tree	Longest ZigZag Path in a Binary Tree	2	false
+find-the-longest-substring-containing-vowels-in-even-counts	Find the Longest Substring Containing Vowels in Even Counts	2	false
+increasing-decreasing-string	Increasing Decreasing String	1	false
+maximum-students-taking-exam	Maximum Students Taking Exam	3	false
+tweet-counts-per-frequency	Tweet Counts Per Frequency	2	false
+minimum-number-of-steps-to-make-two-strings-anagram	Minimum Number of Steps to Make Two Strings Anagram	2	false
+check-if-n-and-its-double-exist	Check If N and Its Double Exist	1	false
+jump-game-v	Jump Game V	3	false
+maximum-product-of-splitted-binary-tree	Maximum Product of Splitted Binary Tree	2	false
+reduce-array-size-to-the-half	Reduce Array Size to The Half	2	false
+the-k-weakest-rows-in-a-matrix	The K Weakest Rows in a Matrix	1	false
+count-all-valid-pickup-and-delivery-options	Count All Valid Pickup and Delivery Options	3	false
+number-of-substrings-containing-all-three-characters	Number of Substrings Containing All Three Characters	2	false
+apply-discount-every-n-orders	Apply Discount Every n Orders	2	false
+sort-integers-by-the-number-of-1-bits	Sort Integers by The Number of 1 Bits	1	false
+minimum-difficulty-of-a-job-schedule	Minimum Difficulty of a Job Schedule	3	false
+find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance	Find the City With the Smallest Number of Neighbors at a Threshold Distance	2	false
+filter-restaurants-by-vegan-friendly-price-and-distance	Filter Restaurants by Vegan-Friendly, Price and Distance	2	false
+remove-palindromic-subsequences	Remove Palindromic Subsequences	1	false
+minimum-number-of-taps-to-open-to-water-a-garden	Minimum Number of Taps to Open to Water a Garden	3	false
+delete-leaves-with-a-given-value	Delete Leaves With a Given Value	2	false
+print-words-vertically	Print Words Vertically	2	false
+maximum-69-number	Maximum 69 Number	1	false
+jump-game-iv	Jump Game IV	3	false
+angle-between-hands-of-a-clock	Angle Between Hands of a Clock	2	false
+number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold	Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold	2	false
+number-of-steps-to-reduce-a-number-to-zero	Number of Steps to Reduce a Number to Zero	1	false
+minimum-distance-to-type-a-word-using-two-fingers	Minimum Distance to Type a Word Using Two Fingers	3	false
+number-of-operations-to-make-network-connected	Number of Operations to Make Network Connected	2	false
+minimum-flips-to-make-a-or-b-equal-to-c	Minimum Flips to Make a OR b Equal to c	2	false
+convert-integer-to-the-sum-of-two-no-zero-integers	Convert Integer to the Sum of Two No-Zero Integers	1	false
+minimum-insertion-steps-to-make-a-string-palindrome	Minimum Insertion Steps to Make a String Palindrome	3	false
+get-watched-videos-by-your-friends	Get Watched Videos by Your Friends	2	false
+xor-queries-of-a-subarray	XOR Queries of a Subarray	2	false
+decrypt-string-from-alphabet-to-integer-mapping	Decrypt String from Alphabet to Integer Mapping	1	false
+check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree	Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree	2	true
+verbal-arithmetic-puzzle	Verbal Arithmetic Puzzle	3	false
+jump-game-iii	Jump Game III	2	false
+all-elements-in-two-binary-search-trees	All Elements in Two Binary Search Trees	2	false
+find-n-unique-integers-sum-up-to-zero	Find N Unique Integers Sum up to Zero	1	false
+maximum-candies-you-can-get-from-boxes	Maximum Candies You Can Get from Boxes	3	false
+maximum-number-of-occurrences-of-a-substring	Maximum Number of Occurrences of a Substring	2	false
+divide-array-in-sets-of-k-consecutive-numbers	Divide Array in Sets of K Consecutive Numbers	2	false
+find-numbers-with-even-number-of-digits	Find Numbers with Even Number of Digits	1	false
+shortest-path-in-a-grid-with-obstacles-elimination	Shortest Path in a Grid with Obstacles Elimination	3	false
+maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold	Maximum Side Length of a Square with Sum Less than or Equal to Threshold	2	false
+convert-binary-number-in-a-linked-list-to-integer	Convert Binary Number in a Linked List to Integer	1	false
+minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix	Minimum Number of Flips to Convert Binary Matrix to Zero Matrix	3	false
+find-the-smallest-divisor-given-a-threshold	Find the Smallest Divisor Given a Threshold	2	false
+group-the-people-given-the-group-size-they-belong-to	Group the People Given the Group Size They Belong To	2	false
+subtract-the-product-and-sum-of-digits-of-an-integer	Subtract the Product and Sum of Digits of an Integer	1	false
+print-immutable-linked-list-in-reverse	Print Immutable Linked List in Reverse	2	true
+palindrome-partitioning-iii	Palindrome Partitioning III	3	false
+count-square-submatrices-with-all-ones	Count Square Submatrices with All Ones	2	false
+number-of-burgers-with-no-waste-of-ingredients	Number of Burgers with No Waste of Ingredients	2	false
+find-winner-on-a-tic-tac-toe-game	Find Winner on a Tic Tac Toe Game	1	false
+number-of-ways-to-stay-in-the-same-place-after-some-steps	Number of Ways to Stay in the Same Place After Some Steps	3	false
+search-suggestions-system	Search Suggestions System	2	false
+count-servers-that-communicate	Count Servers that Communicate	2	false
+minimum-time-visiting-all-points	Minimum Time Visiting All Points	1	false
+counting-elements	Counting Elements	1	true
+minimum-moves-to-move-a-box-to-their-target-location	Minimum Moves to Move a Box to Their Target Location	3	false
+greatest-sum-divisible-by-three	Greatest Sum Divisible by Three	2	false
+find-elements-in-a-contaminated-binary-tree	Find Elements in a Contaminated Binary Tree	2	false
+shift-2d-grid	Shift 2D Grid	1	false
+maximum-score-words-formed-by-letters	Maximum Score Words Formed by Letters	3	false
+number-of-closed-islands	Number of Closed Islands	2	false
+reconstruct-a-2-row-binary-matrix	Reconstruct a 2-Row Binary Matrix	2	false
+cells-with-odd-values-in-a-matrix	Cells with Odd Values in a Matrix	1	false
+leftmost-column-with-at-least-a-one	Leftmost Column with at Least a One	2	true
+check-if-it-is-a-good-array	Check If It Is a Good Array	3	false
+minimum-remove-to-make-valid-parentheses	Minimum Remove to Make Valid Parentheses	2	false
+count-number-of-nice-subarrays	Count Number of Nice Subarrays	2	false
+minimum-swaps-to-make-strings-equal	Minimum Swaps to Make Strings Equal	2	false
+first-unique-number	First Unique Number	2	true
+airplane-seat-assignment-probability	Airplane Seat Assignment Probability	2	false
+tiling-a-rectangle-with-the-fewest-squares	Tiling a Rectangle with the Fewest Squares	3	false
+maximum-length-of-a-concatenated-string-with-unique-characters	Maximum Length of a Concatenated String with Unique Characters	2	false
+circular-permutation-in-binary-representation	Circular Permutation in Binary Representation	2	false
+find-positive-integer-solution-for-a-given-equation	Find Positive Integer Solution for a Given Equation	1	false
+maximum-profit-in-job-scheduling	Maximum Profit in Job Scheduling	3	false
+replace-the-substring-for-balanced-string	Replace the Substring for Balanced String	2	false
+remove-sub-folders-from-the-filesystem	Remove Sub-Folders from the Filesystem	2	false
+check-if-it-is-a-straight-line	Check If It Is a Straight Line	1	false
+perform-string-shifts	Perform String Shifts	1	true
+maximum-equal-frequency	Maximum Equal Frequency	3	false
+dice-roll-simulation	Dice Roll Simulation	2	false
+queens-that-can-attack-the-king	Queens That Can Attack the King	2	false
+split-a-string-in-balanced-strings	Split a String in Balanced Strings	1	false
+design-skiplist	Design Skiplist	3	false
+count-vowels-permutation	Count Vowels Permutation	3	false
+path-with-maximum-gold	Path with Maximum Gold	2	false
+longest-arithmetic-subsequence-of-given-difference	Longest Arithmetic Subsequence of Given Difference	2	false
+play-with-chips	Play with Chips	1	false
+path-with-maximum-probability	Path with Maximum Probability	2	false
+minimum-moves-to-reach-target-with-rotations	Minimum Moves to Reach Target with Rotations	3	false
+get-equal-substrings-within-budget	Get Equal Substrings Within Budget	2	false
+remove-all-adjacent-duplicates-in-string-ii	Remove All Adjacent Duplicates in String II	2	false
+unique-number-of-occurrences	Unique Number of Occurrences	1	false
+sort-items-by-groups-respecting-dependencies	Sort Items by Groups Respecting Dependencies	3	false
+smallest-string-with-swaps	Smallest String With Swaps	2	false
+ugly-number-iii	Ugly Number III	2	false
+minimum-absolute-difference	Minimum Absolute Difference	1	false
+longest-happy-string	Longest Happy String	2	false
+critical-connections-in-a-network	Critical Connections in a Network	3	false
+k-concatenation-maximum-sum	K-Concatenation Maximum Sum	2	false
+reverse-substrings-between-each-pair-of-parentheses	Reverse Substrings Between Each Pair of Parentheses	2	false
+maximum-number-of-balloons	Maximum Number of Balloons	1	false
+kth-ancestor-of-a-tree-node	Kth Ancestor of a Tree Node	3	false
+make-array-strictly-increasing	Make Array Strictly Increasing	3	false
+day-of-the-week	Day of the Week	1	false
+maximum-subarray-sum-with-one-deletion	Maximum Subarray Sum with One Deletion	2	false
+distance-between-bus-stops	Distance Between Bus Stops	1	false
+constrained-subsequence-sum	Constrained Subsequence Sum	3	false
+balance-a-binary-search-tree	Balance a Binary Search Tree	2	false
+four-divisors	Four Divisors	2	false
+reformat-date	Reformat Date	1	false
+number-of-valid-words-for-each-puzzle	Number of Valid Words for Each Puzzle	3	false
+can-make-palindrome-from-substring	Can Make Palindrome from Substring	2	false
+diet-plan-performance	Diet Plan Performance	1	true
+prime-arrangements	Prime Arrangements	1	false
+largest-multiple-of-three	Largest Multiple of Three	3	false
+closest-divisors	Closest Divisors	2	false
+validate-binary-tree-nodes	Validate Binary Tree Nodes	2	false
+number-of-days-between-two-dates	Number of Days Between Two Dates	1	false
+compare-strings-by-frequency-of-the-smallest-character	Compare Strings by Frequency of the Smallest Character	1	false
+invalid-transactions	Invalid Transactions	2	false
+web-crawler	Web Crawler	2	true
+dinner-plate-stacks	Dinner Plate Stacks	3	false
+remove-zero-sum-consecutive-nodes-from-linked-list	Remove Zero Sum Consecutive Nodes from Linked List	2	false
+number-of-dice-rolls-with-target-sum	Number of Dice Rolls With Target Sum	2	false
+online-majority-element-in-subarray	Online Majority Element In Subarray	3	false
+swap-for-longest-repeated-character-substring	Swap For Longest Repeated Character Substring	2	false
+day-of-the-year	Day of the Year	1	false
+rank-transform-of-an-array	Rank Transform of an Array	1	false
+reverse-subarray-to-maximize-array-value	Reverse Subarray To Maximize Array Value	3	false
+deepest-leaves-sum	Deepest Leaves Sum	2	false
+sort-the-matrix-diagonally	Sort the Matrix Diagonally	2	false
+break-a-palindrome	Break a Palindrome	2	false
+longest-chunked-palindrome-decomposition	Longest Chunked Palindrome Decomposition	3	false
+longest-common-subsequence	Longest Common Subsequence	2	false
+snapshot-array	Snapshot Array	2	false
+binary-tree-coloring-game	Binary Tree Coloring Game	2	false
+decrease-elements-to-make-array-zigzag	Decrease Elements To Make Array Zigzag	2	false
+distinct-echo-substrings	Distinct Echo Substrings	3	false
+sum-of-nodes-with-even-valued-grandparent	Sum of Nodes with Even-Valued Grandparent	2	false
+matrix-block-sum	Matrix Block Sum	2	false
+decompress-run-length-encoded-list	Decompress Run-Length Encoded List	1	false
+stone-game-ii	Stone Game II	2	false
+largest-1-bordered-square	Largest 1-Bordered Square	2	false
+alphabet-board-path	Alphabet Board Path	2	false
+n-th-tribonacci-number	N-th Tribonacci Number	1	false
+number-of-paths-with-max-score	Number of Paths with Max Score	3	false
+number-of-ships-in-a-rectangle	Number of Ships in a Rectangle	3	true
+sum-of-mutated-array-closest-to-target	Sum of Mutated Array Closest to Target	2	false
+replace-elements-with-greatest-element-on-right-side	Replace Elements with Greatest Element on Right Side	1	false
+maximum-of-absolute-value-expression	Maximum of Absolute Value Expression	2	false
+shortest-path-with-alternating-colors	Shortest Path with Alternating Colors	2	false
+minimum-cost-tree-from-leaf-values	Minimum Cost Tree From Leaf Values	2	false
+number-of-equivalent-domino-pairs	Number of Equivalent Domino Pairs	1	false
+minimum-falling-path-sum-ii	Minimum Falling Path Sum II	3	false
+remove-covered-intervals	Remove Covered Intervals	2	false
+element-appearing-more-than-25-in-sorted-array	Element Appearing More Than 25% In Sorted Array	1	false
+smallest-sufficient-team	Smallest Sufficient Team	3	false
+longest-well-performing-interval	Longest Well-Performing Interval	2	false
+lowest-common-ancestor-of-deepest-leaves	Lowest Common Ancestor of Deepest Leaves	2	false
+relative-sort-array	Relative Sort Array	1	false
+handshakes-that-dont-cross	Handshakes That Don't Cross	3	true
+sequential-digits	Sequential Digits	2	false
+iterator-for-combination	Iterator for Combination	2	false
+maximum-nesting-depth-of-two-valid-parentheses-strings	Maximum Nesting Depth of Two Valid Parentheses Strings	2	false
+delete-nodes-and-return-forest	Delete Nodes And Return Forest	2	false
+corporate-flight-bookings	Corporate Flight Bookings	2	false
+defanging-an-ip-address	Defanging an IP Address	1	false
+palindrome-removal	Palindrome Removal	3	true
+delete-tree-nodes	Delete Tree Nodes	2	true
+remove-interval	Remove Interval	2	true
+hexspeak	Hexspeak	1	true
+parsing-a-boolean-expression	Parsing A Boolean Expression	3	false
+filling-bookcase-shelves	Filling Bookcase Shelves	2	false
+distribute-candies-to-people	Distribute Candies to People	1	false
+path-in-zigzag-labelled-binary-tree	Path In Zigzag Labelled Binary Tree	2	false
+divide-chocolate	Divide Chocolate	3	true
+synonymous-sentences	Synonymous Sentences	2	true
+smallest-common-region	Smallest Common Region	2	true
+encode-number	Encode Number	2	true
+brace-expansion-ii	Brace Expansion II	3	false
+find-in-mountain-array	Find in Mountain Array	3	false
+car-pooling	Car Pooling	2	false
+statistics-from-a-large-sample	Statistics from a Large Sample	2	false
+valid-palindrome-iii	Valid Palindrome III	3	true
+tree-diameter	Tree Diameter	2	true
+design-a-leaderboard	Design A Leaderboard	2	true
+array-transformation	Array Transformation	1	true
+shortest-path-in-binary-matrix	Shortest Path in Binary Matrix	2	false
+shortest-common-supersequence	Shortest Common Supersequence 	3	false
+largest-values-from-labels	Largest Values From Labels	2	false
+duplicate-zeros	Duplicate Zeros	1	false
+minimum-time-to-build-blocks	Minimum Time to Build Blocks	3	true
+toss-strange-coins	Toss Strange Coins	2	true
+meeting-scheduler	Meeting Scheduler	2	true
+missing-number-in-arithmetic-progression	Missing Number In Arithmetic Progression	1	true
+letter-tile-possibilities	Letter Tile Possibilities	2	false
+smallest-subsequence-of-distinct-characters	Smallest Subsequence of Distinct Characters	2	false
+insufficient-nodes-in-root-to-leaf-paths	Insufficient Nodes in Root to Leaf Paths	2	false
+occurrences-after-bigram	Occurrences After Bigram	1	false
+maximum-number-of-ones	Maximum Number of Ones	3	true
+stepping-numbers	Stepping Numbers	2	true
+two-sum-bsts	Two Sum BSTs	2	true
+intersection-of-three-sorted-arrays	Intersection of Three Sorted Arrays	1	true
+adding-two-negabinary-numbers	Adding Two Negabinary Numbers	2	false
+flip-columns-for-maximum-number-of-equal-rows	Flip Columns For Maximum Number of Equal Rows	2	false
+greatest-common-divisor-of-strings	Greatest Common Divisor of Strings	1	false
+number-of-submatrices-that-sum-to-target	Number of Submatrices That Sum to Target	3	false
+optimize-water-distribution-in-a-village	Optimize Water Distribution in a Village	3	true
+find-smallest-common-element-in-all-rows	Find Smallest Common Element in All Rows	2	true
+minimum-knight-moves	Minimum Knight Moves	2	true
+how-many-apples-can-you-put-into-the-basket	How Many Apples Can You Put into the Basket	1	true
+distant-barcodes	Distant Barcodes	2	false
+previous-permutation-with-one-swap	Previous Permutation With One Swap	2	false
+grumpy-bookstore-owner	Grumpy Bookstore Owner	2	false
+height-checker	Height Checker	1	false
+shortest-distance-to-target-color	Shortest Distance to Target Color	2	true
+last-substring-in-lexicographical-order	Last Substring in Lexicographical Order	3	false
+before-and-after-puzzle	Before and After Puzzle	2	true
+count-substrings-with-only-one-distinct-letter	Count Substrings with Only One Distinct Letter	1	true
+last-stone-weight-ii	Last Stone Weight II	2	false
+longest-string-chain	Longest String Chain	2	false
+remove-all-adjacent-duplicates-in-string	Remove All Adjacent Duplicates In String	1	false
+last-stone-weight	Last Stone Weight	1	false
+minimum-cost-to-connect-sticks	Minimum Cost to Connect Sticks	2	true
+design-file-system	Design File System	2	true
+string-transforms-into-another-string	String Transforms Into Another String	3	true
+single-row-keyboard	Single-Row Keyboard	1	true
+longest-duplicate-substring	Longest Duplicate Substring	3	false
+partition-array-for-maximum-sum	Partition Array for Maximum Sum	2	false
+flower-planting-with-no-adjacent	Flower Planting With No Adjacent	1	false
+robot-bounded-in-circle	Robot Bounded In Circle	2	false
+divide-array-into-increasing-sequences	Divide Array Into Increasing Sequences	3	true
+as-far-from-land-as-possible	As Far from Land as Possible	2	false
+maximum-level-sum-of-a-binary-tree	Maximum Level Sum of a Binary Tree	2	false
+valid-boomerang	Valid Boomerang	1	false
+binary-search-tree-to-greater-sum-tree	Binary Search Tree to Greater Sum Tree	2	false
+moving-stones-until-consecutive-ii	Moving Stones Until Consecutive II	2	false
+find-words-that-can-be-formed-by-characters	Find Words That Can Be Formed by Characters	1	false
+minimum-score-triangulation-of-polygon	Minimum Score Triangulation of Polygon	2	false
+analyze-user-website-visit-pattern	Analyze User Website Visit Pattern	2	true
+minimum-swaps-to-group-all-1s-together	Minimum Swaps to Group All 1's Together	2	true
+escape-a-large-maze	Escape a Large Maze	3	false
+uncrossed-lines	Uncrossed Lines	2	false
+coloring-a-border	Coloring A Border	2	false
+moving-stones-until-consecutive	Moving Stones Until Consecutive	1	false
+check-if-a-number-is-majority-element-in-a-sorted-array	Check If a Number Is Majority Element in a Sorted Array	1	true
+parallel-courses	Parallel Courses	3	true
+connecting-cities-with-minimum-cost	Connecting Cities With Minimum Cost	2	true
+path-with-maximum-minimum-value	Path With Maximum Minimum Value	2	true
+largest-unique-number	Largest Unique Number	1	true
+stream-of-characters	Stream of Characters	3	false
+maximum-sum-of-two-non-overlapping-subarrays	Maximum Sum of Two Non-Overlapping Subarrays	2	false
+two-city-scheduling	Two City Scheduling	1	false
+matrix-cells-in-distance-order	Matrix Cells in Distance Order	1	false
+recover-a-tree-from-preorder-traversal	Recover a Tree From Preorder Traversal	3	false
+maximum-difference-between-node-and-ancestor	Maximum Difference Between Node and Ancestor	2	false
+maximum-average-subtree	Maximum Average Subtree	2	true
+armstrong-number	Armstrong Number	1	true
+remove-vowels-from-a-string	Remove Vowels from a String	1	true
+number-of-days-in-a-month	Number of Days in a Month	1	true
+longest-arithmetic-sequence	Longest Arithmetic Sequence	2	false
+divisor-game	Divisor Game	1	false
+the-earliest-moment-when-everyone-become-friends	The Earliest Moment When Everyone Become Friends	2	true
+find-k-length-substrings-with-no-repeated-characters	Find K-Length Substrings With No Repeated Characters	2	true
+two-sum-less-than-k	Two Sum Less Than K	1	true
+sum-of-digits-in-the-minimum-number	Sum of Digits in the Minimum Number	1	true
+video-stitching	Video Stitching	2	false
+camelcase-matching	Camelcase Matching	2	false
+sum-of-root-to-leaf-binary-numbers	Sum of Root To Leaf Binary Numbers	1	false
+remove-outermost-parentheses	Remove Outermost Parentheses	1	false
+confusing-number-ii	Confusing Number II	3	true
+brace-expansion	Brace Expansion	2	true
+index-pairs-of-a-string	Index Pairs of a String	1	true
+high-five	High Five	1	true
+number-of-enclaves	Number of Enclaves	2	false
+next-greater-node-in-linked-list	Next Greater Node In Linked List	2	false
+binary-prefix-divisible-by-5	Binary Prefix Divisible By 5	1	false
+convert-to-base-2	Convert to Base -2	2	false
+confusing-number	Confusing Number	1	true
+digit-count-in-range	Digit Count in Range	3	true
+campus-bikes-ii	Campus Bikes II	2	true
+fixed-point	Fixed Point	1	true
+binary-string-with-substrings-representing-1-to-n	Binary String With Substrings Representing 1 To N	2	false
+smallest-integer-divisible-by-k	Smallest Integer Divisible by K	2	false
+best-sightseeing-pair	Best Sightseeing Pair	2	false
+partition-array-into-three-parts-with-equal-sum	Partition Array Into Three Parts With Equal Sum	1	false
+number-of-valid-subarrays	Number of Valid Subarrays	3	true
+longest-repeating-substring	Longest Repeating Substring	2	true
+missing-element-in-sorted-array	Missing Element in Sorted Array	2	true
+lexicographically-smallest-equivalent-string	Lexicographically Smallest Equivalent String	2	true
+numbers-with-repeated-digits	Numbers With Repeated Digits	3	false
+capacity-to-ship-packages-within-d-days	Capacity To Ship Packages Within D Days	2	false
+pairs-of-songs-with-total-durations-divisible-by-60	Pairs of Songs With Total Durations Divisible by 60	1	false
+complement-of-base-10-integer	Complement of Base 10 Integer	1	false
+minimize-rounding-error-to-meet-target	Minimize Rounding Error to Meet Target	2	true
+campus-bikes	Campus Bikes	2	true
+shortest-way-to-form-string	Shortest Way to Form String	2	true
+construct-binary-search-tree-from-preorder-traversal	Construct Binary Search Tree from Preorder Traversal	2	false
+minimum-domino-rotations-for-equal-row	Minimum Domino Rotations For Equal Row	2	false
+clumsy-factorial	Clumsy Factorial	2	false
+maximize-sum-of-array-after-k-negations	Maximize Sum Of Array After K Negations	1	false
+max-consecutive-ones-iii	Max Consecutive Ones III	2	false
+check-if-word-is-valid-after-substitutions	Check If Word Is Valid After Substitutions	2	false
+find-common-characters	Find Common Characters	1	false
+grid-illumination	Grid Illumination	3	false
+minimum-cost-to-merge-stones	Minimum Cost to Merge Stones	3	false
+available-captures-for-rook	Available Captures for Rook	1	false
+maximum-binary-tree-ii	Maximum Binary Tree II	2	false
+find-the-town-judge	Find the Town Judge	1	false
+number-of-squareful-arrays	Number of Squareful Arrays	3	false
+minimum-number-of-k-consecutive-bit-flips	Minimum Number of K Consecutive Bit Flips	3	false
+rotting-oranges	Rotting Oranges	2	false
+cousins-in-binary-tree	Cousins in Binary Tree	1	false
+subarrays-with-k-different-integers	Subarrays with K Different Integers	3	false
+broken-calculator	Broken Calculator	2	false
+satisfiability-of-equality-equations	Satisfiability of Equality Equations	2	false
+add-to-array-form-of-integer	Add to Array-Form of Integer	1	false
+smallest-string-starting-from-leaf	Smallest String Starting From Leaf	2	false
+vertical-order-traversal-of-a-binary-tree	Vertical Order Traversal of a Binary Tree	2	false
+interval-list-intersections	Interval List Intersections	2	false
+sum-of-even-numbers-after-queries	Sum of Even Numbers After Queries	1	false
+string-without-aaa-or-bbb	String Without AAA or BBB	2	false
+minimum-cost-for-tickets	Minimum Cost For Tickets	2	false
+triples-with-bitwise-and-equal-to-zero	Triples with Bitwise AND Equal To Zero	3	false
+time-based-key-value-store	Time Based Key-Value Store	2	false
+unique-paths-iii	Unique Paths III	3	false
+distribute-coins-in-binary-tree	Distribute Coins in Binary Tree	2	false
+longest-turbulent-subarray	Longest Turbulent Subarray	2	false
+squares-of-a-sorted-array	Squares of a Sorted Array	1	false
+largest-perimeter-triangle	Largest Perimeter Triangle	1	false
+odd-even-jump	Odd Even Jump	3	false
+subarray-sums-divisible-by-k	Subarray Sums Divisible by K	2	false
+k-closest-points-to-origin	K Closest Points to Origin	2	false
+fibonacci-number	Fibonacci Number	1	false
+equal-rational-numbers	Equal Rational Numbers	3	false
+flip-binary-tree-to-match-preorder-traversal	Flip Binary Tree To Match Preorder Traversal	2	false
+powerful-integers	Powerful Integers	1	false
+pancake-sorting	Pancake Sorting	2	false
+binary-tree-cameras	Binary Tree Cameras	3	false
+numbers-with-same-consecutive-differences	Numbers With Same Consecutive Differences	2	false
+vowel-spellchecker	Vowel Spellchecker	2	false
+univalued-binary-tree	Univalued Binary Tree	1	false
+least-operators-to-express-number	Least Operators to Express Number	3	false
+minimum-area-rectangle-ii	Minimum Area Rectangle II	2	false
+maximum-width-ramp	Maximum Width Ramp	2	false
+n-repeated-element-in-size-2n-array	N-Repeated Element in Size 2N Array	1	false
+delete-columns-to-make-sorted-iii	Delete Columns to Make Sorted III	3	false
+regions-cut-by-slashes	Regions Cut By Slashes	2	false
+check-completeness-of-a-binary-tree	Check Completeness of a Binary Tree	2	false
+prison-cells-after-n-days	Prison Cells After N Days	2	false
+tallest-billboard	Tallest Billboard	3	false
+delete-columns-to-make-sorted-ii	Delete Columns to Make Sorted II	2	false
+array-of-doubled-pairs	Array of Doubled Pairs	2	false
+verifying-an-alien-dictionary	Verifying an Alien Dictionary	1	false
+largest-component-size-by-common-factor	Largest Component Size by Common Factor	3	false
+flip-equivalent-binary-trees	Flip Equivalent Binary Trees	2	false
+reveal-cards-in-increasing-order	Reveal Cards In Increasing Order	2	false
+largest-time-for-given-digits	Largest Time for Given Digits	1	false
+bag-of-tokens	Bag of Tokens	2	false
+most-stones-removed-with-same-row-or-column	Most Stones Removed with Same Row or Column	2	false
+validate-stack-sequences	Validate Stack Sequences	2	false
+minimum-increment-to-make-array-unique	Minimum Increment to Make Array Unique	2	false
+delete-columns-to-make-sorted	Delete Columns to Make Sorted	1	false
+find-the-shortest-superstring	Find the Shortest Superstring	3	false
+di-string-match	DI String Match	1	false
+valid-mountain-array	Valid Mountain Array	1	false
+distinct-subsequences-ii	Distinct Subsequences II	3	false
+minimum-area-rectangle	Minimum Area Rectangle	2	false
+range-sum-of-bst	Range Sum of BST	1	false
+reorder-data-in-log-files	Reorder Data in Log Files	1	false
+stamping-the-sequence	Stamping The Sequence	3	false
+knight-dialer	Knight Dialer	2	false
+shortest-bridge	Shortest Bridge	2	false
+number-of-recent-calls	Number of Recent Calls	1	false
+beautiful-array	Beautiful Array	2	false
+minimum-falling-path-sum	Minimum Falling Path Sum	2	false
+binary-subarrays-with-sum	Binary Subarrays With Sum	2	false
+unique-email-addresses	Unique Email Addresses	1	false
+minimize-malware-spread-ii	Minimize Malware Spread II	3	false
+three-equal-parts	Three Equal Parts	3	false
+flip-string-to-monotone-increasing	Flip String to Monotone Increasing	2	false
+long-pressed-name	Long Pressed Name	1	false
+minimize-malware-spread	Minimize Malware Spread	3	false
+3sum-with-multiplicity	3Sum With Multiplicity	2	false
+sort-array-by-parity-ii	Sort Array By Parity II	1	false
+minimum-add-to-make-parentheses-valid	Minimum Add to Make Parentheses Valid	2	false
+number-of-music-playlists	Number of Music Playlists	3	false
+complete-binary-tree-inserter	Complete Binary Tree Inserter	2	false
+maximum-sum-circular-subarray	Maximum Sum Circular Subarray	2	false
+reverse-only-letters	Reverse Only Letters	1	false
+word-subsets	Word Subsets	2	false
+partition-array-into-disjoint-intervals	Partition Array into Disjoint Intervals	2	false
+x-of-a-kind-in-a-deck-of-cards	X of a Kind in a Deck of Cards	1	false
+cat-and-mouse	Cat and Mouse	3	false
+sort-an-array	Sort an Array	2	false
+online-election	Online Election	2	false
+smallest-range-ii	Smallest Range II	2	false
+snakes-and-ladders	Snakes and Ladders	2	false
+smallest-range-i	Smallest Range I	1	false
+sum-of-subarray-minimums	Sum of Subarray Minimums	2	false
+super-palindromes	Super Palindromes	3	false
+sort-array-by-parity	Sort Array By Parity	1	false
+fruit-into-baskets	Fruit Into Baskets	2	false
+valid-permutations-for-di-sequence	Valid Permutations for DI Sequence	3	false
+numbers-at-most-n-given-digit-set	Numbers At Most N Given Digit Set	3	false
+online-stock-span	Online Stock Span	2	false
+rle-iterator	RLE Iterator	2	false
+orderly-queue	Orderly Queue	3	false
+bitwise-ors-of-subarrays	Bitwise ORs of Subarrays	2	false
+increasing-order-search-tree	Increasing Order Search Tree	1	false
+monotonic-array	Monotonic Array	1	false
+maximum-frequency-stack	Maximum Frequency Stack	3	false
+all-possible-full-binary-trees	All Possible Full Binary Trees	2	false
+groups-of-special-equivalent-strings	Groups of Special-Equivalent Strings	1	false
+surface-area-of-3d-shapes	Surface Area of 3D Shapes	1	false
+sum-of-subsequence-widths	Sum of Subsequence Widths	3	false
+find-and-replace-pattern	Find and Replace Pattern	2	false
+construct-binary-tree-from-preorder-and-postorder-traversal	Construct Binary Tree from Preorder and Postorder Traversal	2	false
+fair-candy-swap	Fair Candy Swap	1	false
+super-egg-drop	Super Egg Drop	3	false
+possible-bipartition	Possible Bipartition	2	false
+spiral-matrix-iii	Spiral Matrix III	2	false
+uncommon-words-from-two-sentences	Uncommon Words from Two Sentences	1	false
+projection-area-of-3d-shapes	Projection Area of 3D Shapes	1	false
+reachable-nodes-in-subdivided-graph	Reachable Nodes In Subdivided Graph	3	false
+boats-to-save-people	Boats to Save People	2	false
+decoded-string-at-index	Decoded String at Index	2	false
+generate-random-point-in-a-circle	Generate Random Point in a Circle	2	false
+random-point-in-non-overlapping-rectangles	Random Point in Non-overlapping Rectangles	2	false
+random-flip-matrix	Random Flip Matrix	2	false
+random-pick-with-weight	Random Pick with Weight	2	false
+profitable-schemes	Profitable Schemes	3	false
+nth-magical-number	Nth Magical Number	3	false
+stone-game	Stone Game	2	false
+middle-of-the-linked-list	Middle of the Linked List	1	false
+koko-eating-bananas	Koko Eating Bananas	2	false
+walking-robot-simulation	Walking Robot Simulation	1	false
+length-of-longest-fibonacci-subsequence	Length of Longest Fibonacci Subsequence	2	false
+leaf-similar-trees	Leaf-Similar Trees	1	false
+implement-rand10-using-rand7	Implement Rand10() Using Rand7()	2	false
+minimum-number-of-refueling-stops	Minimum Number of Refueling Stops	3	false
+advantage-shuffle	Advantage Shuffle	2	false
+reordered-power-of-2	Reordered Power of 2	2	false
+binary-gap	Binary Gap	1	false
+transpose-matrix	Transpose Matrix	1	false
+prime-palindrome	Prime Palindrome	2	false
+smallest-subtree-with-all-the-deepest-nodes	Smallest Subtree with all the Deepest Nodes	2	false
+shortest-path-to-get-all-keys	Shortest Path to Get All Keys	3	false
+random-pick-with-blacklist	Random Pick with Blacklist	3	false
+all-nodes-distance-k-in-binary-tree	All Nodes Distance K in Binary Tree	2	false
+shortest-subarray-with-sum-at-least-k	Shortest Subarray with Sum at Least K	3	false
+score-after-flipping-matrix	Score After Flipping Matrix	2	false
+lemonade-change	Lemonade Change	1	false
+buddy-strings	Buddy Strings	1	false
+mirror-reflection	Mirror Reflection	2	false
+minimum-cost-to-hire-k-workers	Minimum Cost to Hire K Workers	3	false
+score-of-parentheses	Score of Parentheses	2	false
+exam-room	Exam Room	2	false
+k-similar-strings	K-Similar Strings	3	false
+car-fleet	Car Fleet	2	false
+peak-index-in-a-mountain-array	Peak Index in a Mountain Array	1	false
+loud-and-rich	Loud and Rich	2	false
+rectangle-area-ii	Rectangle Area II	3	false
+maximize-distance-to-closest-person	Maximize Distance to Closest Person	1	false
+shifting-letters	Shifting Letters	2	false
+shortest-path-visiting-all-nodes	Shortest Path Visiting All Nodes	3	false
+hand-of-straights	Hand of Straights	2	false
+longest-mountain-in-array	Longest Mountain in Array	2	false
+backspace-string-compare	Backspace String Compare	1	false
+guess-the-word	Guess the Word	3	false
+split-array-into-fibonacci-sequence	Split Array into Fibonacci Sequence	2	false
+keys-and-rooms	Keys and Rooms	2	false
+magic-squares-in-grid	Magic Squares In Grid	1	false
+similar-string-groups	Similar String Groups	3	false
+push-dominoes	Push Dominoes	2	false
+new-21-game	New 21 Game	2	false
+rectangle-overlap	Rectangle Overlap	1	false
+robot-room-cleaner	Robot Room Cleaner	3	true
+image-overlap	Image Overlap	2	false
+sum-of-distances-in-tree	Sum of Distances in Tree	3	false
+find-and-replace-in-string	Find And Replace in String	2	false
+flipping-an-image	Flipping an Image	1	false
+design-circular-queue	Design Circular Queue	2	false
+design-circular-deque	Design Circular Deque	2	false
+masking-personal-information	Masking Personal Information	2	false
+positions-of-large-groups	Positions of Large Groups	1	false
+consecutive-numbers-sum	Consecutive Numbers Sum	3	false
+count-unique-characters-of-all-substrings-of-a-given-string	Count Unique Characters of All Substrings of a Given String	3	false
+making-a-large-island	Making A Large Island	3	false
+most-profit-assigning-work	Most Profit Assigning Work	2	false
+friends-of-appropriate-ages	Friends Of Appropriate Ages	2	false
+goat-latin	Goat Latin	1	false
+insert-into-a-sorted-circular-linked-list	Insert into a Sorted Circular Linked List	2	true
+binary-trees-with-factors	Binary Trees With Factors	2	false
+card-flipping-game	Card Flipping Game	2	false
+shortest-distance-to-a-character	Shortest Distance to a Character	1	false
+short-encoding-of-words	Short Encoding of Words	2	false
+design-linked-list	Design Linked List	2	false
+most-common-word	Most Common Word	1	false
+race-car	Race Car	3	false
+linked-list-components	Linked List Components	2	false
+ambiguous-coordinates	Ambiguous Coordinates	2	false
+bus-routes	Bus Routes	3	false
+binary-tree-pruning	Binary Tree Pruning	2	false
+largest-sum-of-averages	Largest Sum of Averages	2	false
+largest-triangle-area	Largest Triangle Area	1	false
+subdomain-visit-count	Subdomain Visit Count	1	false
+chalkboard-xor-game	Chalkboard XOR Game	3	false
+expressive-words	Expressive Words	2	false
+soup-servings	Soup Servings	2	false
+max-increase-to-keep-city-skyline	Max Increase to Keep City Skyline	2	false
+number-of-lines-to-write-string	Number of Lines To Write String	1	false
+split-array-with-same-average	Split Array With Same Average	3	false
+unique-morse-code-words	Unique Morse Code Words	1	false
+bricks-falling-when-hit	Bricks Falling When Hit	3	false
+find-eventual-safe-states	Find Eventual Safe States	2	false
+minimum-swaps-to-make-sequences-increasing	Minimum Swaps To Make Sequences Increasing	2	false
+similar-rgb-color	Similar RGB Color	1	true
+design-hashmap	Design HashMap	1	false
+design-hashset	Design HashSet	1	false
+champagne-tower	Champagne Tower	2	false
+smallest-rotation-with-highest-score	Smallest Rotation with Highest Score	3	false
+all-paths-from-source-to-target	All Paths From Source to Target	2	false
+rotate-string	Rotate String	1	false
+number-of-subarrays-with-bounded-maximum	Number of Subarrays with Bounded Maximum	2	false
+valid-tic-tac-toe-state	Valid Tic-Tac-Toe State	2	false
+preimage-size-of-factorial-zeroes-function	Preimage Size of Factorial Zeroes Function	3	false
+number-of-matching-subsequences	Number of Matching Subsequences	2	false
+custom-sort-string	Custom Sort String	2	false
+domino-and-tromino-tiling	Domino and Tromino Tiling	2	false
+escape-the-ghosts	Escape The Ghosts	2	false
+rotated-digits	Rotated Digits	1	false
+cheapest-flights-within-k-stops	Cheapest Flights Within K Stops	2	false
+k-th-smallest-prime-fraction	K-th Smallest Prime Fraction	3	false
+is-graph-bipartite	Is Graph Bipartite?	2	false
+letter-case-permutation	Letter Case Permutation	2	false
+minimum-distance-between-bst-nodes	Minimum Distance Between BST Nodes	1	false
+transform-to-chessboard	Transform to Chessboard	3	false
+rabbits-in-forest	Rabbits in Forest	2	false
+reaching-points	Reaching Points	3	false
+k-th-symbol-in-grammar	K-th Symbol in Grammar	2	false
+swim-in-rising-water	Swim in Rising Water	3	false
+swap-adjacent-in-lr-string	Swap Adjacent in LR String	2	false
+binary-search	Binary Search	1	false
+split-bst	Split BST	2	true
+global-and-local-inversions	Global and Local Inversions	2	false
+kth-largest-element-in-a-stream	Kth Largest Element in a Stream	1	false
+minimize-max-distance-to-gas-station	Minimize Max Distance to Gas Station	3	true
+sliding-puzzle	Sliding Puzzle	3	false
+search-in-a-sorted-array-of-unknown-size	Search in a Sorted Array of Unknown Size	2	true
+basic-calculator-iii	Basic Calculator III	3	true
+insert-into-a-binary-search-tree	Insert into a Binary Search Tree	2	false
+search-in-a-binary-search-tree	Search in a Binary Search Tree	1	false
+jewels-and-stones	Jewels and Stones	1	false
+basic-calculator-iv	Basic Calculator IV	3	false
+max-chunks-to-make-sorted	Max Chunks To Make Sorted	2	false
+max-chunks-to-make-sorted-ii	Max Chunks To Make Sorted II	3	false
+reorganize-string	Reorganize String	2	false
+toeplitz-matrix	Toeplitz Matrix	1	false
+n-ary-tree-postorder-traversal	N-ary Tree Postorder Traversal	1	false
+n-ary-tree-preorder-traversal	N-ary Tree Preorder Traversal	1	false
+maximum-depth-of-n-ary-tree	Maximum Depth of N-ary Tree	1	false
+logical-or-of-two-binary-grids-represented-as-quad-trees	Logical OR of Two Binary Grids Represented as Quad-Trees	2	false
+construct-quad-tree	Construct Quad Tree	2	false
+encode-n-ary-tree-to-binary-tree	Encode N-ary Tree to Binary Tree	3	true
+couples-holding-hands	Couples Holding Hands	3	false
+largest-plus-sign	Largest Plus Sign	2	false
+partition-labels	Partition Labels	2	false
+prime-number-of-set-bits-in-binary-representation	Prime Number of Set Bits in Binary Representation	1	false
+flatten-a-multilevel-doubly-linked-list	Flatten a Multilevel Doubly Linked List	2	false
+serialize-and-deserialize-n-ary-tree	Serialize and Deserialize N-ary Tree	3	true
+n-ary-tree-level-order-traversal	N-ary Tree Level Order Traversal	2	false
+special-binary-string	Special Binary String	3	false
+find-anagram-mappings	Find Anagram Mappings	1	true
+employee-free-time	Employee Free Time	3	true
+bold-words-in-string	Bold Words in String	1	true
+set-intersection-size-at-least-two	Set Intersection Size At Least Two	3	false
+convert-binary-search-tree-to-sorted-doubly-linked-list	Convert Binary Search Tree to Sorted Doubly Linked List	2	true
+pyramid-transition-matrix	Pyramid Transition Matrix	2	false
+pour-water	Pour Water	2	true
+reach-a-number	Reach a Number	2	false
+cracking-the-safe	Cracking the Safe	3	false
+open-the-lock	Open the Lock	2	false
+ip-to-cidr	IP to CIDR	2	true
+number-of-corner-rectangles	Number Of Corner Rectangles	2	true
+contain-virus	Contain Virus	3	false
+shortest-completing-word	Shortest Completing Word	1	false
+largest-number-at-least-twice-of-others	Largest Number At Least Twice of Others	1	false
+min-cost-climbing-stairs	Min Cost Climbing Stairs	1	false
+prefix-and-suffix-search	Prefix and Suffix Search	3	false
+find-smallest-letter-greater-than-target	Find Smallest Letter Greater Than Target	1	false
+network-delay-time	Network Delay Time	2	false
+closest-leaf-in-a-binary-tree	Closest Leaf in a Binary Tree	2	true
+to-lower-case	To Lower Case	1	false
+cherry-pickup	Cherry Pickup	3	false
+delete-and-earn	Delete and Earn	2	false
+daily-temperatures	Daily Temperatures	2	false
+monotone-increasing-digits	Monotone Increasing Digits	2	false
+sentence-similarity-ii	Sentence Similarity II	2	true
+parse-lisp-expression	Parse Lisp Expression	3	false
+asteroid-collision	Asteroid Collision	2	false
+sentence-similarity	Sentence Similarity	1	true
+flood-fill	Flood Fill	1	false
+my-calendar-iii	My Calendar III	3	false
+my-calendar-ii	My Calendar II	2	false
+count-different-palindromic-subsequences	Count Different Palindromic Subsequences	3	false
+my-calendar-i	My Calendar I	2	false
+self-dividing-numbers	Self Dividing Numbers	1	false
+minimum-window-subsequence	Minimum Window Subsequence	3	true
+number-of-atoms	Number of Atoms	3	false
+split-linked-list-in-parts	Split Linked List in Parts	2	false
+find-pivot-index	Find Pivot Index	1	false
+candy-crush	Candy Crush	2	true
+remove-comments	Remove Comments	2	false
+accounts-merge	Accounts Merge	2	false
+longest-word-in-dictionary	Longest Word in Dictionary	1	false
+find-k-th-smallest-pair-distance	Find K-th Smallest Pair Distance	3	false
+maximum-length-of-repeated-subarray	Maximum Length of Repeated Subarray	2	false
+1-bit-and-2-bit-characters	1-bit and 2-bit Characters	1	false
+max-stack	Max Stack	1	true
+range-module	Range Module	3	false
+best-time-to-buy-and-sell-stock-with-transaction-fee	Best Time to Buy and Sell Stock with Transaction Fee	2	false
+subarray-product-less-than-k	Subarray Product Less Than K	2	false
+minimum-ascii-delete-sum-for-two-strings	Minimum ASCII Delete Sum for Two Strings	2	false
+number-of-distinct-islands-ii	Number of Distinct Islands II	3	true
+falling-squares	Falling Squares	3	false
+partition-to-k-equal-sum-subsets	Partition to K Equal Sum Subsets	2	false
+degree-of-an-array	Degree of an Array	1	false
+count-binary-substrings	Count Binary Substrings	1	false
+max-area-of-island	Max Area of Island	2	false
+number-of-distinct-islands	Number of Distinct Islands	2	true
+binary-number-with-alternating-bits	Binary Number with Alternating Bits	1	false
+top-k-frequent-words	Top K Frequent Words	2	false
+stickers-to-spell-word	Stickers to Spell Word	3	false
+employee-importance	Employee Importance	1	false
+maximum-sum-of-3-non-overlapping-subarrays	Maximum Sum of 3 Non-Overlapping Subarrays	3	false
+knight-probability-in-chessboard	Knight Probability in Chessboard	2	false
+longest-univalue-path	Longest Univalue Path	1	false
+repeated-string-match	Repeated String Match	1	false
+redundant-connection-ii	Redundant Connection II	3	false
+redundant-connection	Redundant Connection	2	false
+k-empty-slots	K Empty Slots	3	true
+baseball-game	Baseball Game	1	false
+next-closest-time	Next Closest Time	2	true
+valid-palindrome-ii	Valid Palindrome II	1	false
+24-game	24 Game	3	false
+valid-parenthesis-string	Valid Parenthesis String	2	false
+map-sum-pairs	Map Sum Pairs	2	false
+implement-magic-dictionary	Implement Magic Dictionary	2	false
+cut-off-trees-for-golf-event	Cut Off Trees for Golf Event	3	false
+longest-continuous-increasing-subsequence	Longest Continuous Increasing Subsequence	1	false
+number-of-longest-increasing-subsequence	Number of Longest Increasing Subsequence	2	false
+bulb-switcher-ii	Bulb Switcher II	2	false
+second-minimum-node-in-a-binary-tree	Second Minimum Node In a Binary Tree	1	false
+maximum-swap	Maximum Swap	2	false
+trim-a-binary-search-tree	Trim a Binary Search Tree	1	false
+kth-smallest-number-in-multiplication-table	Kth Smallest Number in Multiplication Table	3	false
+beautiful-arrangement-ii	Beautiful Arrangement II	2	false
+path-sum-iv	Path Sum IV	2	true
+non-decreasing-array	Non-decreasing Array	1	false
+strange-printer	Strange Printer	3	false
+equal-tree-partition	Equal Tree Partition	2	true
+maximum-width-of-binary-tree	Maximum Width of Binary Tree	2	false
+image-smoother	Image Smoother	1	false
+remove-9	Remove 9	3	true
+split-array-into-consecutive-subsequences	Split Array into Consecutive Subsequences	2	false
+find-k-closest-elements	Find K Closest Elements	2	false
+robot-return-to-origin	Robot Return to Origin	1	false
+coin-path	Coin Path	3	true
+print-binary-tree	Print Binary Tree	2	false
+maximum-binary-tree	Maximum Binary Tree	2	false
+two-sum-iv-input-is-a-bst	Two Sum IV - Input is a BST	1	false
+find-duplicate-subtrees	Find Duplicate Subtrees	2	false
+4-keys-keyboard	4 Keys Keyboard	2	true
+2-keys-keyboard	2 Keys Keyboard	2	false
+dota2-senate	Dota2 Senate	2	false
+replace-words	Replace Words	2	false
+palindromic-substrings	Palindromic Substrings	2	false
+maximum-length-of-pair-chain	Maximum Length of Pair Chain	2	false
+set-mismatch	Set Mismatch	1	false
+maximum-average-subarray-ii	Maximum Average Subarray II	3	true
+maximum-average-subarray-i	Maximum Average Subarray I	1	false
+design-search-autocomplete-system	Design Search Autocomplete System	3	true
+solve-the-equation	Solve the Equation	2	false
+decode-ways-ii	Decode Ways II	3	false
+shopping-offers	Shopping Offers	2	false
+average-of-levels-in-binary-tree	Average of Levels in Binary Tree	1	false
+exclusive-time-of-functions	Exclusive Time of Functions	2	false
+design-log-storage-system	Design Log Storage System	2	true
+find-the-derangement-of-an-array	Find the Derangement of An Array	2	true
+sum-of-square-numbers	Sum of Square Numbers	1	false
+smallest-range-covering-elements-from-k-lists	Smallest Range Covering Elements from K Lists	3	false
+design-excel-sum-formula	Design Excel Sum Formula	3	true
+course-schedule-iii	Course Schedule III	3	false
+k-inverse-pairs-array	K Inverse Pairs Array	3	false
+maximum-product-of-three-numbers	Maximum Product of Three Numbers	1	false
+minimum-factorization	Minimum Factorization	2	true
+maximum-distance-in-arrays	Maximum Distance in Arrays	1	true
+add-one-row-to-tree	Add One Row to Tree	2	false
+task-scheduler	Task Scheduler	2	false
+merge-two-binary-trees	Merge Two Binary Trees	1	false
+add-bold-tag-in-string	Add Bold Tag in String	2	true
+valid-triangle-number	Valid Triangle Number	2	false
+find-duplicate-file-in-system	Find Duplicate File in System	2	false
+construct-string-from-binary-tree	Construct String from Binary Tree	1	false
+can-place-flowers	Can Place Flowers	1	false
+design-compressed-string-iterator	Design Compressed String Iterator	1	true
+non-negative-integers-without-consecutive-ones	Non-negative Integers without Consecutive Ones	3	false
+minimum-index-sum-of-two-lists	Minimum Index Sum of Two Lists	1	false
+range-addition-ii	Range Addition II	1	false
+longest-harmonious-subsequence	Longest Harmonious Subsequence	1	false
+valid-square	Valid Square	2	false
+fraction-addition-and-subtraction	Fraction Addition and Subtraction	2	false
+tag-validator	Tag Validator	3	false
+design-in-memory-file-system	Design In-Memory File System	3	true
+erect-the-fence	Erect the Fence	3	false
+delete-operation-for-two-strings	Delete Operation for Two Strings	2	false
+kill-process	Kill Process	2	true
+shortest-unsorted-continuous-subarray	Shortest Unsorted Continuous Subarray	1	false
+out-of-boundary-paths	Out of Boundary Paths	2	false
+distribute-candies	Distribute Candies	1	false
+squirrel-simulation	Squirrel Simulation	2	true
+subtree-of-another-tree	Subtree of Another Tree	1	false
+maximum-vacation-days	Maximum Vacation Days	3	true
+permutation-in-string	Permutation in String	2	false
+reshape-the-matrix	Reshape the Matrix	1	false
+array-nesting	Array Nesting	2	false
+find-the-closest-palindrome	Find the Closest Palindrome	3	false
+binary-tree-tilt	Binary Tree Tilt	1	false
+longest-line-of-consecutive-one-in-matrix	Longest Line of Consecutive One in Matrix	2	true
+array-partition-i	Array Partition I	1	false
+subarray-sum-equals-k	Subarray Sum Equals K	2	false
+reverse-words-in-a-string-iii	Reverse Words in a String III	1	false
+next-greater-element-iii	Next Greater Element III	2	false
+split-concatenated-strings	Split Concatenated Strings	2	true
+brick-wall	Brick Wall	2	false
+optimal-division	Optimal Division	2	false
+student-attendance-record-ii	Student Attendance Record II	3	false
+student-attendance-record-i	Student Attendance Record I	1	false
+binary-tree-longest-consecutive-sequence-ii	Binary Tree Longest Consecutive Sequence II	2	true
+split-array-with-equal-sum	Split Array with Equal Sum	2	true
+friend-circles	Friend Circles	2	false
+remove-boxes	Remove Boxes	3	false
+boundary-of-binary-tree	Boundary of Binary Tree	2	true
+output-contest-matches	Output Contest Matches	2	true
+diameter-of-binary-tree	Diameter of Binary Tree	1	false
+01-matrix	01 Matrix	2	false
+reverse-string-ii	Reverse String II	1	false
+single-element-in-a-sorted-array	Single Element in a Sorted Array	2	false
+minimum-time-difference	Minimum Time Difference	2	false
+convert-bst-to-greater-tree	Convert BST to Greater Tree	1	false
+complex-number-multiplication	Complex Number Multiplication	2	false
+construct-binary-tree-from-string	Construct Binary Tree from String	2	true
+encode-and-decode-tinyurl	Encode and Decode TinyURL	2	false
+lonely-pixel-ii	Lonely Pixel II	2	true
+k-diff-pairs-in-an-array	K-diff Pairs in an Array	1	false
+lonely-pixel-i	Lonely Pixel I	2	true
+minimum-absolute-difference-in-bst	Minimum Absolute Difference in BST	1	false
+minesweeper	Minesweeper	2	false
+word-abbreviation	Word Abbreviation	3	true
+beautiful-arrangement	Beautiful Arrangement	2	false
+contiguous-array	Contiguous Array	2	false
+longest-word-in-dictionary-through-deleting	Longest Word in Dictionary through Deleting	2	false
+continuous-subarray-sum	Continuous Subarray Sum	2	false
+longest-uncommon-subsequence-ii	Longest Uncommon Subsequence II	2	false
+longest-uncommon-subsequence-i	Longest Uncommon Subsequence I 	1	false
+detect-capital	Detect Capital	1	false
+coin-change-2	Coin Change 2	2	false
+super-washing-machines	Super Washing Machines	3	false
+longest-palindromic-subsequence	Longest Palindromic Subsequence	2	false
+find-largest-value-in-each-tree-row	Find Largest Value in Each Tree Row	2	false
+freedom-trail	Freedom Trail	3	false
+find-bottom-left-tree-value	Find Bottom Left Tree Value	2	false
+all-paths-from-source-lead-to-destination	All Paths from Source Lead to Destination	2	true
+inorder-successor-in-bst-ii	Inorder Successor in BST II	2	true
+most-frequent-subtree-sum	Most Frequent Subtree Sum	2	false
+perfect-number	Perfect Number	1	false
+relative-ranks	Relative Ranks	1	false
+the-maze-ii	The Maze II	2	true
+base-7	Base 7	1	false
+next-greater-element-ii	Next Greater Element II	2	false
+ipo	IPO	3	false
+find-mode-in-binary-search-tree	Find Mode in Binary Search Tree	1	false
+keyboard-row	Keyboard Row	1	false
+the-maze-iii	The Maze III	3	true
+diagonal-traverse	Diagonal Traverse	2	false
+next-greater-element-i	Next Greater Element I	1	false
+teemo-attacking	Teemo Attacking	2	false
+target-sum	Target Sum	2	false
+reverse-pairs	Reverse Pairs	3	false
+construct-the-rectangle	Construct the Rectangle	1	false
+increasing-subsequences	Increasing Subsequences	2	false
+the-maze	The Maze	2	true
+zuma-game	Zuma Game	3	false
+max-consecutive-ones-ii	Max Consecutive Ones II	2	true
+predict-the-winner	Predict the Winner	2	false
+max-consecutive-ones	Max Consecutive Ones	1	false
+find-permutation	Find Permutation	2	true
+smallest-good-base	Smallest Good Base	3	false
+license-key-formatting	License Key Formatting	1	false
+magical-string	Magical String	2	false
+sliding-window-median	Sliding Window Median	3	false
+largest-palindrome-product	Largest Palindrome Product	3	false
+total-hamming-distance	Total Hamming Distance	2	false
+number-complement	Number Complement	1	false
+heaters	Heaters	1	false
+ones-and-zeroes	Ones and Zeroes	2	false
+matchsticks-to-square	Matchsticks to Square	2	false
+concatenated-words	Concatenated Words	3	false
+encode-string-with-shortest-length	Encode String with Shortest Length	3	true
+convex-polygon	Convex Polygon	2	true
+validate-ip-address	Validate IP Address	2	false
+unique-substrings-in-wraparound-string	Unique Substrings in Wraparound String	2	false
+count-the-repetitions	Count The Repetitions	3	false
+optimal-account-balancing	Optimal Account Balancing	3	true
+can-i-win	Can I Win	2	false
+island-perimeter	Island Perimeter	1	false
+minimum-moves-to-equal-array-elements-ii	Minimum Moves to Equal Array Elements II	2	false
+hamming-distance	Hamming Distance	1	false
+lfu-cache	LFU Cache	3	false
+repeated-substring-pattern	Repeated Substring Pattern	1	false
+poor-pigs	Poor Pigs	3	false
+circular-array-loop	Circular Array Loop	2	false
+132-pattern	132 Pattern	2	false
+assign-cookies	Assign Cookies	1	false
+4sum-ii	4Sum II	2	false
+minimum-moves-to-equal-array-elements	Minimum Moves to Equal Array Elements	1	false
+minimum-number-of-arrows-to-burst-balloons	Minimum Number of Arrows to Burst Balloons	2	false
+sort-characters-by-frequency	Sort Characters By Frequency	2	false
+delete-node-in-a-bst	Delete Node in a BST	2	false
+serialize-and-deserialize-bst	Serialize and Deserialize BST	2	false
+find-all-numbers-disappeared-in-an-array	Find All Numbers Disappeared in an Array	1	false
+number-of-boomerangs	Number of Boomerangs	1	false
+arithmetic-slices-ii-subsequence	Arithmetic Slices II - Subsequence	3	false
+add-two-numbers-ii	Add Two Numbers II	2	false
+sequence-reconstruction	Sequence Reconstruction	2	true
+string-compression	String Compression	1	false
+find-all-duplicates-in-an-array	Find All Duplicates in an Array	2	false
+arranging-coins	Arranging Coins	1	false
+k-th-smallest-in-lexicographical-order	K-th Smallest in Lexicographical Order	3	false
+ternary-expression-parser	Ternary Expression Parser	2	true
+find-all-anagrams-in-a-string	Find All Anagrams in a String	2	false
+path-sum-iii	Path Sum III	2	false
+find-right-interval	Find Right Interval	2	false
+non-overlapping-intervals	Non-overlapping Intervals	2	false
+number-of-segments-in-a-string	Number of Segments in a String	1	false
+minimum-genetic-mutation	Minimum Genetic Mutation	2	false
+all-oone-data-structure	All O`one Data Structure	3	false
+word-squares	Word Squares	3	true
+longest-repeating-character-replacement	Longest Repeating Character Replacement	2	false
+reconstruct-original-digits-from-english	Reconstruct Original Digits from English	2	false
+valid-word-square	Valid Word Square	1	true
+maximum-xor-of-two-numbers-in-an-array	Maximum XOR of Two Numbers in an Array	2	false
+strong-password-checker	Strong Password Checker	3	false
+battleships-in-a-board	Battleships in a Board	2	false
+sentence-screen-fitting	Sentence Screen Fitting	2	true
+pacific-atlantic-water-flow	Pacific Atlantic Water Flow	2	false
+partition-equal-subset-sum	Partition Equal Subset Sum	2	false
+add-strings	Add Strings	1	false
+third-maximum-number	Third Maximum Number	1	false
+arithmetic-slices	Arithmetic Slices	2	false
+fizz-buzz	Fizz Buzz	1	false
+minimum-unique-word-abbreviation	Minimum Unique Word Abbreviation	3	true
+split-array-largest-sum	Split Array Largest Sum	3	false
+longest-palindrome	Longest Palindrome	1	false
+valid-word-abbreviation	Valid Word Abbreviation	1	true
+trapping-rain-water-ii	Trapping Rain Water II	3	false
+queue-reconstruction-by-height	Queue Reconstruction by Height	2	false
+convert-a-number-to-hexadecimal	Convert a Number to Hexadecimal	1	false
+sum-of-left-leaves	Sum of Left Leaves	1	false
+frog-jump	Frog Jump	3	false
+remove-k-digits	Remove K Digits	2	false
+binary-watch	Binary Watch	1	false
+nth-digit	Nth Digit	2	false
+evaluate-division	Evaluate Division	2	false
+random-pick-index	Random Pick Index	2	false
+integer-replacement	Integer Replacement	2	false
+rotate-function	Rotate Function	2	false
+longest-substring-with-at-least-k-repeating-characters	Longest Substring with At Least K Repeating Characters	2	false
+decode-string	Decode String	2	false
+utf-8-validation	UTF-8 Validation	2	false
+is-subsequence	Is Subsequence	1	false
+perfect-rectangle	Perfect Rectangle	3	false
+elimination-game	Elimination Game	2	false
+find-the-difference	Find the Difference	1	false
+longest-absolute-file-path	Longest Absolute File Path	2	false
+first-unique-character-in-a-string	First Unique Character in a String	1	false
+lexicographical-numbers	Lexicographical Numbers	2	false
+mini-parser	Mini Parser	2	false
+shuffle-an-array	Shuffle an Array	2	false
+ransom-note	Ransom Note	1	false
+linked-list-random-node	Linked List Random Node	2	false
+insert-delete-getrandom-o1-duplicates-allowed	Insert Delete GetRandom O(1) - Duplicates allowed	3	false
+insert-delete-getrandom-o1	Insert Delete GetRandom O(1)	2	false
+design-phone-directory	Design Phone Directory	2	true
+kth-smallest-element-in-a-sorted-matrix	Kth Smallest Element in a Sorted Matrix	2	false
+combination-sum-iv	Combination Sum IV	2	false
+wiggle-subsequence	Wiggle Subsequence	2	false
+guess-number-higher-or-lower-ii	Guess Number Higher or Lower II	2	false
+guess-number-higher-or-lower	Guess Number Higher or Lower	1	false
+find-k-pairs-with-smallest-sums	Find K Pairs with Smallest Sums	2	false
+super-pow	Super Pow	2	false
+sum-of-two-integers	Sum of Two Integers	2	false
+range-addition	Range Addition	2	true
+plus-one-linked-list	Plus One Linked List	2	true
+largest-divisible-subset	Largest Divisible Subset	2	false
+valid-perfect-square	Valid Perfect Square	1	false
+find-leaves-of-binary-tree	Find Leaves of Binary Tree	2	true
+water-and-jug-problem	Water and Jug Problem	2	false
+nested-list-weight-sum-ii	Nested List Weight Sum II	2	true
+max-sum-of-rectangle-no-larger-than-k	Max Sum of Rectangle No Larger Than K	3	false
+design-hit-counter	Design Hit Counter	2	true
+bomb-enemy	Bomb Enemy	2	true
+sort-transformed-array	Sort Transformed Array	2	true
+logger-rate-limiter	Logger Rate Limiter	1	true
+rearrange-string-k-distance-apart	Rearrange String k Distance Apart	3	true
+count-numbers-with-unique-digits	Count Numbers with Unique Digits	2	false
+line-reflection	Line Reflection	2	true
+design-twitter	Design Twitter	2	false
+russian-doll-envelopes	Russian Doll Envelopes	3	false
+design-snake-game	Design Snake Game	2	true
+data-stream-as-disjoint-intervals	Data Stream as Disjoint Intervals	3	false
+android-unlock-patterns	Android Unlock Patterns	2	true
+intersection-of-two-arrays-ii	Intersection of Two Arrays II	1	false
+intersection-of-two-arrays	Intersection of Two Arrays	1	false
+design-tic-tac-toe	Design Tic-Tac-Toe	2	true
+top-k-frequent-elements	Top K Frequent Elements	2	false
+moving-average-from-data-stream	Moving Average from Data Stream	1	true
+reverse-vowels-of-a-string	Reverse Vowels of a String	1	false
+reverse-string	Reverse String	1	false
+integer-break	Integer Break	2	false
+power-of-four	Power of Four	1	false
+flatten-nested-list-iterator	Flatten Nested List Iterator	2	false
+longest-substring-with-at-most-k-distinct-characters	Longest Substring with At Most K Distinct Characters	3	true
+nested-list-weight-sum	Nested List Weight Sum	1	true
+counting-bits	Counting Bits	2	false
+house-robber-iii	House Robber III	2	false
+palindrome-pairs	Palindrome Pairs	3	false
+self-crossing	Self Crossing	3	false
+increasing-triplet-subsequence	Increasing Triplet Subsequence	2	false
+largest-bst-subtree	Largest BST Subtree	2	true
+reconstruct-itinerary	Reconstruct Itinerary	2	false
+verify-preorder-serialization-of-a-binary-tree	Verify Preorder Serialization of a Binary Tree	2	false
+patching-array	Patching Array	3	false
+longest-increasing-path-in-a-matrix	Longest Increasing Path in a Matrix	3	false
+odd-even-linked-list	Odd Even Linked List	2	false
+count-of-range-sum	Count of Range Sum	3	false
+power-of-three	Power of Three	1	false
+maximum-size-subarray-sum-equals-k	Maximum Size Subarray Sum Equals k	2	true
+wiggle-sort-ii	Wiggle Sort II	2	false
+number-of-connected-components-in-an-undirected-graph	Number of Connected Components in an Undirected Graph	2	true
+coin-change	Coin Change	2	false
+create-maximum-number	Create Maximum Number	3	false
+generalized-abbreviation	Generalized Abbreviation	2	true
+bulb-switcher	Bulb Switcher	2	false
+maximum-product-of-word-lengths	Maximum Product of Word Lengths	2	false
+shortest-distance-from-all-buildings	Shortest Distance from All Buildings	3	true
+remove-duplicate-letters	Remove Duplicate Letters	3	false
+count-of-smaller-numbers-after-self	Count of Smaller Numbers After Self	3	false
+binary-tree-vertical-order-traversal	Binary Tree Vertical Order Traversal	2	true
+super-ugly-number	Super Ugly Number	2	false
+burst-balloons	Burst Balloons	3	false
+sparse-matrix-multiplication	Sparse Matrix Multiplication	2	true
+minimum-height-trees	Minimum Height Trees	2	false
+best-time-to-buy-and-sell-stock-with-cooldown	Best Time to Buy and Sell Stock with Cooldown	2	false
+range-sum-query-2d-mutable	Range Sum Query 2D - Mutable	3	true
+range-sum-query-mutable	Range Sum Query - Mutable	2	false
+additive-number	Additive Number	2	false
+number-of-islands-ii	Number of Islands II	3	true
+range-sum-query-2d-immutable	Range Sum Query 2D - Immutable	2	false
+range-sum-query-immutable	Range Sum Query - Immutable	1	false
+smallest-rectangle-enclosing-black-pixels	Smallest Rectangle Enclosing Black Pixels	3	true
+remove-invalid-parentheses	Remove Invalid Parentheses	3	false
+longest-increasing-subsequence	Longest Increasing Subsequence	2	false
+bulls-and-cows	Bulls and Cows	1	false
+binary-tree-longest-consecutive-sequence	Binary Tree Longest Consecutive Sequence	2	true
+serialize-and-deserialize-binary-tree	Serialize and Deserialize Binary Tree	3	false
+best-meeting-point	Best Meeting Point	3	true
+find-median-from-data-stream	Find Median from Data Stream	3	false
+flip-game-ii	Flip Game II	2	true
+flip-game	Flip Game	1	true
+nim-game	Nim Game	1	false
+word-pattern-ii	Word Pattern II	3	true
+word-pattern	Word Pattern	1	false
+game-of-life	Game of Life	2	false
+unique-word-abbreviation	Unique Word Abbreviation	2	true
+find-the-duplicate-number	Find the Duplicate Number	2	false
+walls-and-gates	Walls and Gates	2	true
+inorder-successor-in-bst	Inorder Successor in BST	2	true
+peeking-iterator	Peeking Iterator	2	false
+move-zeroes	Move Zeroes	1	false
+expression-add-operators	Expression Add Operators	3	false
+zigzag-iterator	Zigzag Iterator	2	true
+wiggle-sort	Wiggle Sort	2	true
+perfect-squares	Perfect Squares	2	false
+first-bad-version	First Bad Version	1	false
+find-the-celebrity	Find the Celebrity	2	true
+paint-fence	Paint Fence	1	true
+h-index-ii	H-Index II	2	false
+h-index	H-Index	2	false
+integer-to-english-words	Integer to English Words	3	false
+closest-binary-search-tree-value-ii	Closest Binary Search Tree Value II	3	true
+encode-and-decode-strings	Encode and Decode Strings	2	true
+closest-binary-search-tree-value	Closest Binary Search Tree Value	1	true
+alien-dictionary	Alien Dictionary	3	true
+missing-number	Missing Number	1	false
+palindrome-permutation-ii	Palindrome Permutation II	2	true
+palindrome-permutation	Palindrome Permutation	1	true
+paint-house-ii	Paint House II	3	true
+ugly-number-ii	Ugly Number II	2	false
+ugly-number	Ugly Number	1	false
+graph-valid-tree	Graph Valid Tree	2	true
+single-number-iii	Single Number III	2	false
+3sum-smaller	3Sum Smaller	2	true
+add-digits	Add Digits	1	false
+binary-tree-paths	Binary Tree Paths	1	false
+paint-house	Paint House	1	true
+verify-preorder-sequence-in-binary-search-tree	Verify Preorder Sequence in Binary Search Tree	2	true
+factor-combinations	Factor Combinations	2	true
+meeting-rooms-ii	Meeting Rooms II	2	true
+meeting-rooms	Meeting Rooms	1	true
+flatten-2d-vector	Flatten 2D Vector	2	true
+count-univalue-subtrees	Count Univalue Subtrees	2	true
+group-shifted-strings	Group Shifted Strings	2	true
+strobogrammatic-number-iii	Strobogrammatic Number III	3	true
+strobogrammatic-number-ii	Strobogrammatic Number II	2	true
+strobogrammatic-number	Strobogrammatic Number	1	true
+shortest-word-distance-iii	Shortest Word Distance III	2	true
+shortest-word-distance-ii	Shortest Word Distance II	2	true
+shortest-word-distance	Shortest Word Distance	1	true
+valid-anagram	Valid Anagram	1	false
+different-ways-to-add-parentheses	Different Ways to Add Parentheses	2	false
+search-a-2d-matrix-ii	Search a 2D Matrix II	2	false
+sliding-window-maximum	Sliding Window Maximum	3	false
+product-of-array-except-self	Product of Array Except Self	2	false
+delete-node-in-a-linked-list	Delete Node in a Linked List	1	false
+lowest-common-ancestor-of-a-binary-tree	Lowest Common Ancestor of a Binary Tree	2	false
+lowest-common-ancestor-of-a-binary-search-tree	Lowest Common Ancestor of a Binary Search Tree	1	false
+palindrome-linked-list	Palindrome Linked List	1	false
+number-of-digit-one	Number of Digit One	3	false
+implement-queue-using-stacks	Implement Queue using Stacks	1	false
+power-of-two	Power of Two	1	false
+kth-smallest-element-in-a-bst	Kth Smallest Element in a BST	2	false
+majority-element-ii	Majority Element II	2	false
+summary-ranges	Summary Ranges	2	false
+basic-calculator-ii	Basic Calculator II	2	false
+invert-binary-tree	Invert Binary Tree	1	false
+implement-stack-using-queues	Implement Stack using Queues	1	false
+basic-calculator	Basic Calculator	3	false
+rectangle-area	Rectangle Area	2	false
+count-complete-tree-nodes	Count Complete Tree Nodes	2	false
+maximal-square	Maximal Square	2	false
+contains-duplicate-iii	Contains Duplicate III	2	false
+contains-duplicate-ii	Contains Duplicate II	1	false
+the-skyline-problem	The Skyline Problem	3	false
+contains-duplicate	Contains Duplicate	1	false
+combination-sum-iii	Combination Sum III	2	false
+kth-largest-element-in-an-array	Kth Largest Element in an Array	2	false
+shortest-palindrome	Shortest Palindrome	3	false
+house-robber-ii	House Robber II	2	false
+word-search-ii	Word Search II	3	false
+add-and-search-word-data-structure-design	Add and Search Word - Data structure design	2	false
+course-schedule-ii	Course Schedule II	2	false
+minimum-size-subarray-sum	Minimum Size Subarray Sum	2	false
+implement-trie-prefix-tree	Implement Trie (Prefix Tree)	2	false
+course-schedule	Course Schedule	2	false
+reverse-linked-list	Reverse Linked List	1	false
+isomorphic-strings	Isomorphic Strings	1	false
+count-primes	Count Primes	1	false
+remove-linked-list-elements	Remove Linked List Elements	1	false
+happy-number	Happy Number	1	false
+bitwise-and-of-numbers-range	Bitwise AND of Numbers Range	2	false
+number-of-islands	Number of Islands	2	false
+binary-tree-right-side-view	Binary Tree Right Side View	2	false
+house-robber	House Robber	1	false
+number-of-1-bits	Number of 1 Bits	1	false
+reverse-bits	Reverse Bits	1	false
+rotate-array	Rotate Array	1	false
+best-time-to-buy-and-sell-stock-iv	Best Time to Buy and Sell Stock IV	3	false
+repeated-dna-sequences	Repeated DNA Sequences	2	false
+reverse-words-in-a-string-ii	Reverse Words in a String II	2	true
+largest-number	Largest Number	2	false
+dungeon-game	Dungeon Game	3	false
+binary-search-tree-iterator	Binary Search Tree Iterator	2	false
+factorial-trailing-zeroes	Factorial Trailing Zeroes	1	false
+excel-sheet-column-number	Excel Sheet Column Number	1	false
+two-sum-iii-data-structure-design	Two Sum III - Data structure design	1	true
+majority-element	Majority Element	1	false
+excel-sheet-column-title	Excel Sheet Column Title	1	false
+two-sum-ii-input-array-is-sorted	Two Sum II - Input array is sorted	1	false
+fraction-to-recurring-decimal	Fraction to Recurring Decimal	2	false
+compare-version-numbers	Compare Version Numbers	2	false
+maximum-gap	Maximum Gap	3	false
+missing-ranges	Missing Ranges	2	true
+find-peak-element	Find Peak Element	2	false
+one-edit-distance	One Edit Distance	2	true
+intersection-of-two-linked-lists	Intersection of Two Linked Lists	1	false
+longest-substring-with-at-most-two-distinct-characters	Longest Substring with At Most Two Distinct Characters	2	true
+read-n-characters-given-read4-ii-call-multiple-times	Read N Characters Given Read4 II - Call multiple times	3	true
+read-n-characters-given-read4	Read N Characters Given Read4	1	true
+binary-tree-upside-down	Binary Tree Upside Down	2	true
+min-stack	Min Stack	1	false
+find-minimum-in-rotated-sorted-array-ii	Find Minimum in Rotated Sorted Array II	3	false
+find-minimum-in-rotated-sorted-array	Find Minimum in Rotated Sorted Array	2	false
+maximum-product-subarray	Maximum Product Subarray	2	false
+reverse-words-in-a-string	Reverse Words in a String	2	false
+evaluate-reverse-polish-notation	Evaluate Reverse Polish Notation	2	false
+max-points-on-a-line	Max Points on a Line	3	false
+sort-list	Sort List	2	false
+insertion-sort-list	Insertion Sort List	2	false
+lru-cache	LRU Cache	2	false
+binary-tree-postorder-traversal	Binary Tree Postorder Traversal	3	false
+binary-tree-preorder-traversal	Binary Tree Preorder Traversal	2	false
+reorder-list	Reorder List	2	false
+linked-list-cycle-ii	Linked List Cycle II	2	false
+linked-list-cycle	Linked List Cycle	1	false
+word-break-ii	Word Break II	3	false
+word-break	Word Break	2	false
+copy-list-with-random-pointer	Copy List with Random Pointer	2	false
+single-number-ii	Single Number II	2	false
+single-number	Single Number	1	false
+candy	Candy	3	false
+gas-station	Gas Station	2	false
+clone-graph	Clone Graph	2	false
+palindrome-partitioning-ii	Palindrome Partitioning II	3	false
+palindrome-partitioning	Palindrome Partitioning	2	false
+surrounded-regions	Surrounded Regions	2	false
+sum-root-to-leaf-numbers	Sum Root to Leaf Numbers	2	false
+longest-consecutive-sequence	Longest Consecutive Sequence	3	false
+word-ladder	Word Ladder	2	false
+word-ladder-ii	Word Ladder II	3	false
+valid-palindrome	Valid Palindrome	1	false
+binary-tree-maximum-path-sum	Binary Tree Maximum Path Sum	3	false
+best-time-to-buy-and-sell-stock-iii	Best Time to Buy and Sell Stock III	3	false
+best-time-to-buy-and-sell-stock-ii	Best Time to Buy and Sell Stock II	1	false
+best-time-to-buy-and-sell-stock	Best Time to Buy and Sell Stock	1	false
+triangle	Triangle	2	false
+pascals-triangle-ii	Pascal's Triangle II	1	false
+pascals-triangle	Pascal's Triangle	1	false
+populating-next-right-pointers-in-each-node-ii	Populating Next Right Pointers in Each Node II	2	false
+populating-next-right-pointers-in-each-node	Populating Next Right Pointers in Each Node	2	false
+distinct-subsequences	Distinct Subsequences	3	false
+flatten-binary-tree-to-linked-list	Flatten Binary Tree to Linked List	2	false
+path-sum-ii	Path Sum II	2	false
+path-sum	Path Sum	1	false
+minimum-depth-of-binary-tree	Minimum Depth of Binary Tree	1	false
+balanced-binary-tree	Balanced Binary Tree	1	false
+convert-sorted-list-to-binary-search-tree	Convert Sorted List to Binary Search Tree	2	false
+convert-sorted-array-to-binary-search-tree	Convert Sorted Array to Binary Search Tree	1	false
+binary-tree-level-order-traversal-ii	Binary Tree Level Order Traversal II	1	false
+construct-binary-tree-from-inorder-and-postorder-traversal	Construct Binary Tree from Inorder and Postorder Traversal	2	false
+construct-binary-tree-from-preorder-and-inorder-traversal	Construct Binary Tree from Preorder and Inorder Traversal	2	false
+maximum-depth-of-binary-tree	Maximum Depth of Binary Tree	1	false
+binary-tree-zigzag-level-order-traversal	Binary Tree Zigzag Level Order Traversal	2	false
+binary-tree-level-order-traversal	Binary Tree Level Order Traversal	2	false
+symmetric-tree	Symmetric Tree	1	false
+same-tree	Same Tree	1	false
+recover-binary-search-tree	Recover Binary Search Tree	3	false
+validate-binary-search-tree	Validate Binary Search Tree	2	false
+interleaving-string	Interleaving String	3	false
+unique-binary-search-trees	Unique Binary Search Trees	2	false
+unique-binary-search-trees-ii	Unique Binary Search Trees II	2	false
+binary-tree-inorder-traversal	Binary Tree Inorder Traversal	2	false
+restore-ip-addresses	Restore IP Addresses	2	false
+reverse-linked-list-ii	Reverse Linked List II	2	false
+decode-ways	Decode Ways	2	false
+subsets-ii	Subsets II	2	false
+gray-code	Gray Code	2	false
+merge-sorted-array	Merge Sorted Array	1	false
+scramble-string	Scramble String	3	false
+partition-list	Partition List	2	false
+maximal-rectangle	Maximal Rectangle	3	false
+largest-rectangle-in-histogram	Largest Rectangle in Histogram	3	false
+remove-duplicates-from-sorted-list	Remove Duplicates from Sorted List	1	false
+remove-duplicates-from-sorted-list-ii	Remove Duplicates from Sorted List II	2	false
+search-in-rotated-sorted-array-ii	Search in Rotated Sorted Array II	2	false
+remove-duplicates-from-sorted-array-ii	Remove Duplicates from Sorted Array II	2	false
+word-search	Word Search	2	false
+subsets	Subsets	2	false
+combinations	Combinations	2	false
+minimum-window-substring	Minimum Window Substring	3	false
+sort-colors	Sort Colors	2	false
+search-a-2d-matrix	Search a 2D Matrix	2	false
+set-matrix-zeroes	Set Matrix Zeroes	2	false
+edit-distance	Edit Distance	3	false
+simplify-path	Simplify Path	2	false
+climbing-stairs	Climbing Stairs	1	false
+sqrtx	Sqrt(x)	1	false
+text-justification	Text Justification	3	false
+add-binary	Add Binary	1	false
+plus-one	Plus One	1	false
+valid-number	Valid Number	3	false
+minimum-path-sum	Minimum Path Sum	2	false
+unique-paths-ii	Unique Paths II	2	false
+unique-paths	Unique Paths	2	false
+rotate-list	Rotate List	2	false
+permutation-sequence	Permutation Sequence	3	false
+spiral-matrix-ii	Spiral Matrix II	2	false
+length-of-last-word	Length of Last Word	1	false
+insert-interval	Insert Interval	3	false
+merge-intervals	Merge Intervals	2	false
+jump-game	Jump Game	2	false
+spiral-matrix	Spiral Matrix	2	false
+maximum-subarray	Maximum Subarray	1	false
+n-queens-ii	N-Queens II	3	false
+n-queens	N-Queens	3	false
+powx-n	Pow(x, n)	2	false
+group-anagrams	Group Anagrams	2	false
+rotate-image	Rotate Image	2	false
+permutations-ii	Permutations II	2	false
+permutations	Permutations	2	false
+jump-game-ii	Jump Game II	3	false
+wildcard-matching	Wildcard Matching	3	false
+multiply-strings	Multiply Strings	2	false
+trapping-rain-water	Trapping Rain Water	3	false
+first-missing-positive	First Missing Positive	3	false
+combination-sum-ii	Combination Sum II	2	false
+combination-sum	Combination Sum	2	false
+count-and-say	Count and Say	1	false
+sudoku-solver	Sudoku Solver	3	false
+valid-sudoku	Valid Sudoku	2	false
+search-insert-position	Search Insert Position	1	false
+find-first-and-last-position-of-element-in-sorted-array	Find First and Last Position of Element in Sorted Array	2	false
+search-in-rotated-sorted-array	Search in Rotated Sorted Array	2	false
+longest-valid-parentheses	Longest Valid Parentheses	3	false
+next-permutation	Next Permutation	2	false
+substring-with-concatenation-of-all-words	Substring with Concatenation of All Words	3	false
+divide-two-integers	Divide Two Integers	2	false
+implement-strstr	Implement strStr()	1	false
+remove-element	Remove Element	1	false
+remove-duplicates-from-sorted-array	Remove Duplicates from Sorted Array	1	false
+reverse-nodes-in-k-group	Reverse Nodes in k-Group	3	false
+swap-nodes-in-pairs	Swap Nodes in Pairs	2	false
+merge-k-sorted-lists	Merge k Sorted Lists	3	false
+generate-parentheses	Generate Parentheses	2	false
+merge-two-sorted-lists	Merge Two Sorted Lists	1	false
+valid-parentheses	Valid Parentheses	1	false
+remove-nth-node-from-end-of-list	Remove Nth Node From End of List	2	false
+4sum	4Sum	2	false
+letter-combinations-of-a-phone-number	Letter Combinations of a Phone Number	2	false
+3sum-closest	3Sum Closest	2	false
+3sum	3Sum	2	false
+longest-common-prefix	Longest Common Prefix	1	false
+roman-to-integer	Roman to Integer	1	false
+integer-to-roman	Integer to Roman	2	false
+container-with-most-water	Container With Most Water	2	false
+regular-expression-matching	Regular Expression Matching	3	false
+palindrome-number	Palindrome Number	1	false
+string-to-integer-atoi	String to Integer (atoi)	2	false
+reverse-integer	Reverse Integer	1	false
+zigzag-conversion	ZigZag Conversion	2	false
+longest-palindromic-substring	Longest Palindromic Substring	2	false
+median-of-two-sorted-arrays	Median of Two Sorted Arrays	3	false
+longest-substring-without-repeating-characters	Longest Substring Without Repeating Characters	2	false
+add-two-numbers	Add Two Numbers	2	false
+two-sum	Two Sum	1	false

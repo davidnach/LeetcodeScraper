@@ -1,0 +1,174 @@
+6 days, 6 hours ago	Best Time to Buy and Sell Stock	Accepted	12 ms	cpp
+1 week, 2 days ago	Merge Two Sorted Lists	Accepted	8 ms	cpp
+1 week, 2 days ago	Find All Numbers Disappeared in an Array	Accepted	108 ms	cpp
+1 week, 3 days ago	Find All Numbers Disappeared in an Array	Wrong Answer	N/A	cpp
+1 week, 3 days ago	Find All Numbers Disappeared in an Array	Runtime Error	N/A	cpp
+1 week, 3 days ago	Find All Numbers Disappeared in an Array	Wrong Answer	N/A	cpp
+1 week, 3 days ago	Find All Numbers Disappeared in an Array	Runtime Error	N/A	cpp
+1 week, 5 days ago	Majority Element	Accepted	108 ms	cpp
+1 week, 5 days ago	Majority Element	Compile Error	N/A	cpp
+1 week, 5 days ago	Majority Element	Compile Error	N/A	cpp
+1 week, 5 days ago	Majority Element	Compile Error	N/A	cpp
+1 week, 5 days ago	Majority Element	Wrong Answer	N/A	cpp
+1 week, 5 days ago	Reverse Linked List	Accepted	8 ms	cpp
+1 week, 5 days ago	Reverse Linked List	Accepted	4 ms	cpp
+1 week, 5 days ago	Reverse Linked List	Runtime Error	N/A	cpp
+2 weeks ago	Invert Binary Tree	Accepted	8 ms	cpp
+2 weeks ago	Invert Binary Tree	Accepted	8 ms	cpp
+2 weeks ago	Maximum Depth of Binary Tree	Accepted	12 ms	cpp
+2 weeks, 2 days ago	Merge Two Binary Trees	Accepted	40 ms	cpp
+2 weeks, 2 days ago	Merge Two Binary Trees	Compile Error	N/A	cpp
+2 weeks, 2 days ago	Merge Two Binary Trees	Wrong Answer	N/A	cpp
+2 weeks, 2 days ago	Merge Two Binary Trees	Compile Error	N/A	cpp
+2 months, 1 week ago	Power of Two	Accepted	0 ms	cpp
+3 months ago	Two Sum	Accepted	20 ms	cpp
+3 months ago	Two Sum	Accepted	600 ms	cpp
+3 months ago	Single Element in a Sorted Array	Accepted	24 ms	cpp
+3 months, 1 week ago	Single Element in a Sorted Array	Wrong Answer	N/A	cpp
+3 months, 1 week ago	Single Element in a Sorted Array	Wrong Answer	N/A	cpp
+3 months, 1 week ago	Single Element in a Sorted Array	Wrong Answer	N/A	cpp
+3 months, 1 week ago	Check If It Is a Straight Line	Accepted	16 ms	cpp
+3 months, 1 week ago	Check If It Is a Straight Line	Wrong Answer	N/A	cpp
+3 months, 1 week ago	Check If It Is a Straight Line	Wrong Answer	N/A	cpp
+3 months, 1 week ago	Check If It Is a Straight Line	Wrong Answer	N/A	cpp
+3 months, 1 week ago	Check If It Is a Straight Line	Compile Error	N/A	cpp
+3 months, 1 week ago	Check If It Is a Straight Line	Compile Error	N/A	cpp
+3 months, 2 weeks ago	First Bad Version	Accepted	4 ms	cpp
+3 months, 2 weeks ago	First Bad Version	Accepted	0 ms	cpp
+3 months, 2 weeks ago	First Bad Version	Compile Error	N/A	cpp
+3 months, 2 weeks ago	First Bad Version	Compile Error	N/A	cpp
+3 months, 2 weeks ago	First Bad Version	Wrong Answer	N/A	cpp
+3 months, 2 weeks ago	First Bad Version	Compile Error	N/A	cpp
+3 months, 2 weeks ago	First Bad Version	Time Limit Exceeded	N/A	cpp
+3 months, 2 weeks ago	First Bad Version	Wrong Answer	N/A	cpp
+3 months, 2 weeks ago	First Bad Version	Time Limit Exceeded	N/A	cpp
+3 months, 2 weeks ago	First Bad Version	Time Limit Exceeded	N/A	cpp
+3 months, 2 weeks ago	First Bad Version	Wrong Answer	N/A	cpp
+3 months, 2 weeks ago	First Bad Version	Time Limit Exceeded	N/A	cpp
+3 months, 2 weeks ago	First Bad Version	Wrong Answer	N/A	cpp
+3 months, 2 weeks ago	First Bad Version	Wrong Answer	N/A	cpp
+3 months, 2 weeks ago	First Bad Version	Wrong Answer	N/A	cpp
+3 months, 2 weeks ago	First Bad Version	Wrong Answer	N/A	cpp
+3 months, 2 weeks ago	First Bad Version	Wrong Answer	N/A	cpp
+3 months, 2 weeks ago	First Bad Version	Wrong Answer	N/A	cpp
+3 months, 2 weeks ago	First Bad Version	Wrong Answer	N/A	cpp
+3 months, 2 weeks ago	First Bad Version	Wrong Answer	N/A	cpp
+3 months, 3 weeks ago	Subarray Sum Equals K	Wrong Answer	N/A	cpp
+3 months, 3 weeks ago	Subarray Sum Equals K	Wrong Answer	N/A	cpp
+3 months, 3 weeks ago	Subarray Sum Equals K	Time Limit Exceeded	N/A	cpp
+3 months, 3 weeks ago	Subarray Sum Equals K	Time Limit Exceeded	N/A	cpp
+3 months, 3 weeks ago	Subarray Sum Equals K	Wrong Answer	N/A	cpp
+3 months, 3 weeks ago	Subarray Sum Equals K	Compile Error	N/A	cpp
+3 months, 3 weeks ago	Subarray Sum Equals K	Wrong Answer	N/A	cpp
+3 months, 3 weeks ago	Subarray Sum Equals K	Time Limit Exceeded	N/A	cpp
+3 months, 3 weeks ago	Subarray Sum Equals K	Wrong Answer	N/A	cpp
+3 months, 3 weeks ago	Subarray Sum Equals K	Wrong Answer	N/A	cpp
+3 months, 3 weeks ago	Subarray Sum Equals K	Runtime Error	N/A	cpp
+3 months, 3 weeks ago	Subarray Sum Equals K	Compile Error	N/A	cpp
+3 months, 3 weeks ago	Subarray Sum Equals K	Wrong Answer	N/A	cpp
+3 months, 3 weeks ago	Subarray Sum Equals K	Wrong Answer	N/A	cpp
+3 months, 3 weeks ago	Subarray Sum Equals K	Runtime Error	N/A	cpp
+3 months, 3 weeks ago	Subarray Sum Equals K	Compile Error	N/A	cpp
+3 months, 3 weeks ago	Subarray Sum Equals K	Wrong Answer	N/A	cpp
+4 months, 1 week ago	Min Stack	Accepted	40 ms	cpp
+4 months, 1 week ago	Backspace String Compare	Accepted	0 ms	cpp
+4 months, 1 week ago	Backspace String Compare	Accepted	0 ms	cpp
+4 months, 1 week ago	Backspace String Compare	Runtime Error	N/A	cpp
+4 months, 1 week ago	Backspace String Compare	Runtime Error	N/A	cpp
+4 months, 1 week ago	Backspace String Compare	Wrong Answer	N/A	cpp
+4 months, 1 week ago	Backspace String Compare	Runtime Error	N/A	cpp
+4 months, 1 week ago	Backspace String Compare	Compile Error	N/A	cpp
+4 months, 1 week ago	Backspace String Compare	Compile Error	N/A	cpp
+4 months, 1 week ago	Backspace String Compare	Wrong Answer	N/A	cpp
+4 months, 1 week ago	Backspace String Compare	Wrong Answer	N/A	cpp
+4 months, 1 week ago	Backspace String Compare	Wrong Answer	N/A	cpp
+4 months, 1 week ago	Backspace String Compare	Wrong Answer	N/A	cpp
+4 months, 1 week ago	Backspace String Compare	Wrong Answer	N/A	cpp
+4 months, 1 week ago	Backspace String Compare	Wrong Answer	N/A	cpp
+4 months, 1 week ago	Backspace String Compare	Wrong Answer	N/A	cpp
+4 months, 1 week ago	Backspace String Compare	Compile Error	N/A	cpp
+4 months, 1 week ago	Backspace String Compare	Wrong Answer	N/A	cpp
+4 months, 1 week ago	Middle of the Linked List	Accepted	0 ms	cpp
+4 months, 1 week ago	Middle of the Linked List	Runtime Error	N/A	cpp
+4 months, 1 week ago	Middle of the Linked List	Compile Error	N/A	cpp
+4 months, 1 week ago	Middle of the Linked List	Accepted	0 ms	cpp
+4 months, 1 week ago	Middle of the Linked List	Wrong Answer	N/A	cpp
+4 months, 1 week ago	Counting Elements	Accepted	0 ms	cpp
+4 months, 1 week ago	Counting Elements	Accepted	4 ms	cpp
+4 months, 1 week ago	Counting Elements	Accepted	0 ms	cpp
+4 months, 1 week ago	Counting Elements	Accepted	0 ms	cpp
+4 months, 1 week ago	Counting Elements	Runtime Error	N/A	cpp
+4 months, 1 week ago	Counting Elements	Runtime Error	N/A	cpp
+4 months, 1 week ago	Counting Elements	Runtime Error	N/A	cpp
+4 months, 1 week ago	Counting Elements	Runtime Error	N/A	cpp
+4 months, 1 week ago	Group Anagrams	Accepted	60 ms	cpp
+4 months, 2 weeks ago	Best Time to Buy and Sell Stock II	Accepted	4 ms	cpp
+4 months, 2 weeks ago	Best Time to Buy and Sell Stock II	Accepted	20 ms	cpp
+4 months, 2 weeks ago	Best Time to Buy and Sell Stock II	Runtime Error	N/A	cpp
+4 months, 2 weeks ago	Minimum Subsequence in Non-Increasing Order	Accepted	16 ms	cpp
+4 months, 2 weeks ago	Minimum Subsequence in Non-Increasing Order	Compile Error	N/A	cpp
+4 months, 2 weeks ago	Minimum Subsequence in Non-Increasing Order	Wrong Answer	N/A	cpp
+4 months, 2 weeks ago	Minimum Subsequence in Non-Increasing Order	Wrong Answer	N/A	cpp
+4 months, 2 weeks ago	Minimum Subsequence in Non-Increasing Order	Wrong Answer	N/A	cpp
+4 months, 2 weeks ago	Minimum Subsequence in Non-Increasing Order	Wrong Answer	N/A	cpp
+4 months, 2 weeks ago	Minimum Subsequence in Non-Increasing Order	Wrong Answer	N/A	cpp
+4 months, 2 weeks ago	Move Zeroes	Accepted	12 ms	cpp
+4 months, 2 weeks ago	Move Zeroes	Accepted	12 ms	cpp
+4 months, 2 weeks ago	Move Zeroes	Accepted	12 ms	cpp
+4 months, 2 weeks ago	Maximum Subarray	Accepted	8 ms	cpp
+4 months, 2 weeks ago	Maximum Subarray	Compile Error	N/A	cpp
+4 months, 2 weeks ago	Maximum Subarray	Wrong Answer	N/A	cpp
+4 months, 2 weeks ago	Maximum Subarray	Wrong Answer	N/A	cpp
+4 months, 2 weeks ago	Happy Number	Accepted	0 ms	cpp
+4 months, 2 weeks ago	Happy Number	Time Limit Exceeded	N/A	cpp
+4 months, 2 weeks ago	Single Number	Accepted	32 ms	cpp
+4 months, 2 weeks ago	Single Number	Accepted	32 ms	cpp
+4 months, 2 weeks ago	Single Number	Runtime Error	N/A	cpp
+4 months, 3 weeks ago	Find Lucky Integer in an Array	Accepted	8 ms	cpp
+4 months, 3 weeks ago	Find Lucky Integer in an Array	Accepted	20 ms	cpp
+4 months, 3 weeks ago	Find Lucky Integer in an Array	Wrong Answer	N/A	cpp
+4 months, 3 weeks ago	Find Lucky Integer in an Array	Wrong Answer	N/A	cpp
+4 months, 3 weeks ago	Find Lucky Integer in an Array	Wrong Answer	N/A	cpp
+1 year ago	Remove Duplicates from Sorted Array	Accepted	20 ms	cpp
+1 year ago	Remove Duplicates from Sorted Array	Compile Error	N/A	cpp
+1 year, 7 months ago	Subsets	Accepted	2 ms	java
+1 year, 7 months ago	Permutations	Accepted	5 ms	java
+1 year, 7 months ago	Permutations	Compile Error	N/A	java
+1 year, 7 months ago	Permutations	Compile Error	N/A	java
+1 year, 7 months ago	Permutations	Compile Error	N/A	java
+1 year, 7 months ago	Permutations	Accepted	3 ms	java
+1 year, 7 months ago	N-Repeated Element in Size 2N Array	Accepted	12 ms	java
+1 year, 7 months ago	Sentence Screen Fitting	Wrong Answer	N/A	java
+1 year, 7 months ago	Sentence Screen Fitting	Wrong Answer	N/A	java
+1 year, 7 months ago	Kill Process	Accepted	555 ms	java
+1 year, 7 months ago	Kill Process	Wrong Answer	N/A	java
+1 year, 7 months ago	Kill Process	Compile Error	N/A	java
+1 year, 7 months ago	Kill Process	Accepted	3055 ms	java
+1 year, 7 months ago	Find Leaves of Binary Tree	Accepted	1 ms	java
+1 year, 7 months ago	Find Leaves of Binary Tree	Accepted	1 ms	java
+1 year, 7 months ago	Paint House II	Accepted	6 ms	java
+1 year, 7 months ago	Paint House II	Runtime Error	N/A	java
+1 year, 7 months ago	Paint House	Accepted	2 ms	java
+1 year, 7 months ago	Recover Binary Search Tree	Accepted	54 ms	java
+1 year, 7 months ago	Can I Win	Wrong Answer	N/A	java
+1 year, 7 months ago	Can I Win	Wrong Answer	N/A	java
+1 year, 7 months ago	Partition Labels	Accepted	27 ms	java
+1 year, 7 months ago	Partition Labels	Wrong Answer	N/A	java
+1 year, 7 months ago	Longest Substring with At Most Two Distinct Characters	Wrong Answer	N/A	java
+1 year, 7 months ago	Longest Substring with At Most Two Distinct Characters	Wrong Answer	N/A	java
+1 year, 7 months ago	Longest Substring with At Most Two Distinct Characters	Wrong Answer	N/A	java
+1 year, 7 months ago	Longest Substring with At Most Two Distinct Characters	Wrong Answer	N/A	java
+1 year, 7 months ago	Longest Substring with At Most Two Distinct Characters	Runtime Error	N/A	java
+1 year, 7 months ago	Can I Win	Wrong Answer	N/A	java
+1 year, 7 months ago	Can I Win	Time Limit Exceeded	N/A	java
+1 year, 7 months ago	Can I Win	Wrong Answer	N/A	java
+1 year, 7 months ago	Can I Win	Wrong Answer	N/A	java
+1 year, 7 months ago	Can I Win	Wrong Answer	N/A	java
+1 year, 7 months ago	Can I Win	Wrong Answer	N/A	java
+1 year, 7 months ago	Can I Win	Wrong Answer	N/A	java
+1 year, 7 months ago	Can I Win	Wrong Answer	N/A	java
+1 year, 9 months ago	Binary Search	Time Limit Exceeded	N/A	c
+1 year, 9 months ago	Binary Search	Time Limit Exceeded	N/A	c
+1 year, 9 months ago	Binary Search	Time Limit Exceeded	N/A	c
+1 year, 9 months ago	Binary Search	Time Limit Exceeded	N/A	c
+1 year, 9 months ago	Binary Search	Compile Error	N/A	c
